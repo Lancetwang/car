@@ -1,0 +1,17 @@
+llm:
+  main: "qwen-plus-2025-07-28"
+  support: "qwen-flash-2025-07-28"
+  temperature: 0.0
+
+agent:
+  max_iterations: 10
+  max_replans: 3
+
+tool:
+  dir: "tool_set"
+  info: "tool_info.json"
+  timeout: 30
+
+output:
+  enable_log: false
+  dir: "output"
