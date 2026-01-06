@@ -1,0 +1,1488 @@
+React错误但RAAgent正确的问题统计
+共 211 个问题
+====================================================================================================
+
+1. 问题ID: 2
+   问题: How many consonants are there in the last name of the person who directed and wrote the 2016 film featuring the voice of Townsend Coleman?
+   正确答案: 6
+   React答案: Unable to determine the film due to an empty film database. Consequently, the director's last name and consonant count cannot be identified.
+   RAAgent答案: 6
+----------------------------------------------------------------------------------------------------
+
+2. 问题ID: 4
+   问题: What is the closest palindrome number to the year the brother of this first round draft pick by the Washington Redskins was drafted?
+   正确答案: 2002
+   React答案: The closest palindrome number to the year the brother of Robert Griffin III, a first-round draft pick by the Washington Redskins, was drafted is 2020.
+   RAAgent答案: 2002
+----------------------------------------------------------------------------------------------------
+
+3. 问题ID: 6
+   问题: How many letters (exclude the first and last) are there in the first name of the director of a 2004 film where Kam Heskin plays Paige Morgan in?
+   正确答案: 4
+   React答案: There are 8 letters (excluding the first and last) in the first name of the director of the 2004 film where Kam Heskin plays Paige Morgan.
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+4. 问题ID: 7
+   问题: What is the alphabetical order of the letters in the first name of the role the actor who played Colonel Sherman T. Potter in "M*A*S*H" played in "Kentucky Jones"?
+   正确答案: delmos
+   React答案: The alphabetical order of the letters in the first name of the role (Smedley) played by Harry Morgan in "Kentucky Jones" is: D, E, E, L, M, S, Y.
+   RAAgent答案: delmos
+----------------------------------------------------------------------------------------------------
+
+5. 问题ID: 13
+   问题: What is the sum of the digits of the year the year of birth of a "holistic health" practitioner who invented an promoted Rejuvelac?
+   正确答案: 19
+   React答案: The sum of the digits of the year of birth (1909) of Ann Wigmore, the holistic health practitioner who invented and promoted Rejuvelac, is 1 + 0 + 0 + 9 = 10.
+   RAAgent答案: 19
+----------------------------------------------------------------------------------------------------
+
+6. 问题ID: 16
+   问题: What is the difference between the year of birth of the actor who appeared on Charlotte's Shorts and Weeds and the year 2024?
+   正确答案: 58
+   React答案: The difference between the birth year of Gary Anthony Williams (1965) and the year 2024 is 59 years.
+   RAAgent答案: 58
+----------------------------------------------------------------------------------------------------
+
+7. 问题ID: 21
+   问题: What the concatenation of the first and last digits of the birth year of The star of "Lady in a Cage"?
+   正确答案: 16
+   React答案: 17
+   RAAgent答案: 16
+----------------------------------------------------------------------------------------------------
+
+8. 问题ID: 25
+   问题: What is the result of multiplying 4 by the reverse of the year of birth of the actress who created The Dogwoman telemovies?
+   正确答案: 6764
+   React答案: The reverse of the year of birth (1967) of Judith Lucy, the creator of "The Dogwoman" telemovies, is 7691. Multiplying 4 by 7691 gives 30764. Therefore, the result is 30764.
+   RAAgent答案: 6764
+----------------------------------------------------------------------------------------------------
+
+9. 问题ID: 37
+   问题: How many syllables are there in the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway?
+   正确答案: 2
+   React答案: The first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway is "Todd", which has 1 syllable.
+   RAAgent答案: 2
+----------------------------------------------------------------------------------------------------
+
+10. 问题ID: 39
+   问题: What is the cube of the sum of the digits of the year of birth of the actress who was starred in "Streak" with Rumer Willis?
+   正确答案: 13824.0
+   React答案: 12167
+   RAAgent答案: 13824
+----------------------------------------------------------------------------------------------------
+
+11. 问题ID: 43
+   问题: How many days lay between the date when the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump was born and August 03, 2028?
+   正确答案: 28979
+   React答案: There are 19,432 days between the birth date of Jason Miller, the American lawyer, lobbyist, and political consultant who was a senior member of Donald Trump's presidential campaign, and August 3, 2028.
+   RAAgent答案: 28,979
+----------------------------------------------------------------------------------------------------
+
+12. 问题ID: 52
+   问题: What is the date one month before the birth date of the British author who wrote the novel on which "Here We Go Round the Mulberry Bush"?
+   正确答案: 1935-12-07
+   React答案: The date one month before the birth date of Hunter Davies, the British author who wrote the novel on which "Here We Go Round the Mulberry Bush" is based, is December 27, 1935.
+   RAAgent答案: 7 December 1935
+----------------------------------------------------------------------------------------------------
+
+13. 问题ID: 55
+   问题: What is the reverse order of the letters in the first name of the role the actor who played Colonel Sherman T. Potter in "M*A*S*H" played in "Kentucky Jones"?
+   正确答案: modles
+   React答案: zuB
+   RAAgent答案: modleS
+----------------------------------------------------------------------------------------------------
+
+14. 问题ID: 63
+   问题: What is the year before the year this division, where Cleveland Browns placed fourth in 2009, adopted its current name?
+   正确答案: 2001
+   React答案: The year before the AFC North adopted its current name is 2001.
+   RAAgent答案: 2001
+----------------------------------------------------------------------------------------------------
+
+15. 问题ID: 67
+   问题: What is the year before the birth year of the person who wrote and illustrated a Japanese manga series based on a 16 year old high school student Ichitaka Seto?
+   正确答案: 1961
+   React答案: The year before the birth year of Yoshida Mitsuru, who wrote and illustrated the Japanese manga series "Touch" featuring the 16-year-old high school student Ichitaka Seto, is 1956.
+   RAAgent答案: 1961
+----------------------------------------------------------------------------------------------------
+
+16. 问题ID: 69
+   问题: Which day of the week was the date of birth of the English inventor that developed the Richard Hornsby & Sons oil engine?
+   正确答案: Thursday
+   React答案: The English inventor Herbert Akroyd Stuart, who developed the Richard Hornsby & Sons oil engine, was born on a Saturday.
+   RAAgent答案: Thursday
+----------------------------------------------------------------------------------------------------
+
+17. 问题ID: 72
+   问题: How many additional letters does the first name of Alexander Flores have compared to the last name of the former member of Beatles married the starring actress of The Black Belly of the Tarantula ?
+   正确答案: 4
+   React答案: There is no evidence that a former member of The Beatles was married to a starring actress of *The Black Belly of the Tarantula*. Therefore, the comparison cannot be made.
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+18. 问题ID: 73
+   问题: What is the reverse order of the letters in the last name of the character portrayed by Anna Camp in the film centered on the fictional Barden University and The Bellas?
+   正确答案: nesop
+   React答案: The reverse order of the letters in the last name "Posen" is "nesoP".
+   RAAgent答案: nesoP
+----------------------------------------------------------------------------------------------------
+
+19. 问题ID: 80
+   问题: What is the date 9 days after the date when the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump was born?
+   正确答案: 1949-04-10
+   React答案: The date 9 days after the birth of Jason Miller, an American lawyer, lobbyist, and political consultant who was a senior member of Donald Trump's presidential campaign, is July 2, 1975.
+   RAAgent答案: April 10, 1949
+----------------------------------------------------------------------------------------------------
+
+20. 问题ID: 84
+   问题: What is the date 3 days after the date of birth of the English inventor that developed the Richard Hornsby & Sons oil engine?
+   正确答案: 1864-01-31
+   React答案: The date 3 days after the birth of Herbert Akroyd Stuart, the English inventor who developed the Richard Hornsby & Sons oil engine, is January 16, 1864.
+   RAAgent答案: 31 January 1864
+----------------------------------------------------------------------------------------------------
+
+21. 问题ID: 87
+   问题: What is the date 9 weeks before the birth date of the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy?
+   正确答案: 1978-08-05
+   React答案: The date 9 weeks before the birth date of Yuvraj Singh, the former Indian cricketer who made his ODI debut during the 2000 ICC KnockOut Trophy, is October 10, 1981.
+   RAAgent答案: 5 August 1978
+----------------------------------------------------------------------------------------------------
+
+22. 问题ID: 91
+   问题: How many consonants are there in the first name of the former member of Beatles married the starring actress of The Black Belly of the Tarantula ?
+   正确答案: 3
+   React答案: 5
+   RAAgent答案: 3
+----------------------------------------------------------------------------------------------------
+
+23. 问题ID: 95
+   问题: What is the date 7 weeks after the birthdate of of the plaintiff in the 1892 Barbed Wire Patent Case?
+   正确答案: 1813-03-08
+   React答案: The date 7 weeks after the birthdate of Joseph Glidden, the plaintiff in the 1892 Barbed Wire Patent Case, is March 8, 1813.
+   RAAgent答案: March 8, 1813
+----------------------------------------------------------------------------------------------------
+
+24. 问题ID: 97
+   问题: What is the date 7 weeks before the date the comedy film directed by Kevin Tent and starring the Bulgarian-Canadian actress known for portraying the role of Mia Jones will be released on video on demand services?
+   正确答案: 2017-08-07
+   React答案: The date 7 weeks before the video on demand release of the comedy film directed by Kevin Tent and starring Nina Dobrev, known for portraying Mia Jones, is September 27, 2023.
+   RAAgent答案: August 7, 2017
+----------------------------------------------------------------------------------------------------
+
+25. 问题ID: 98
+   问题: What is the last letter of the first name of the former member of Beatles married the starring actress of The Black Belly of the Tarantula ?
+   正确答案: o
+   React答案: The last letter of the first name of the former member of The Beatles who was married to the starring actress of *The Black Belly of the Tarantula* is **e**.
+   RAAgent答案: o
+----------------------------------------------------------------------------------------------------
+
+26. 问题ID: 100
+   问题: What is the date one year after the date when Charlie McDermott plays Axl Heck on a tv show that premiered in ?
+   正确答案: 2010-09-30
+   React答案: The date one year after the premiere of the TV show where Charlie McDermott plays Axl Heck ("The Middle") is January 1, 2010. Note: The exact premiere date was assumed as January 1, 2009, since only the year (2009) was available.
+   RAAgent答案: September 30, 2010
+----------------------------------------------------------------------------------------------------
+
+27. 问题ID: 105
+   问题: What is the binary code of the last letter of the first name of the former member of Beatles married the starring actress of The Black Belly of the Tarantula ?
+   正确答案: 1101111
+   React答案: There is no former member of The Beatles who was married to the starring actress of *The Black Belly of the Tarantula* (Giovanna Ralli). Therefore, the premise of the question is incorrect, and the requested binary code cannot be determined.
+   RAAgent答案: 1101111
+----------------------------------------------------------------------------------------------------
+
+28. 问题ID: 108
+   问题: What is the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway?
+   正确答案: Adam
+   React答案: Todd
+   RAAgent答案: Adam
+----------------------------------------------------------------------------------------------------
+
+29. 问题ID: 111
+   问题: What is the binary code of the first letter of the last name of the psychologist who wrote about the disciple of the person known as the "Wild Woman of Buttle" in lowercase?
+   正确答案: 1101011
+   React答案: The binary code of the first letter of the last name of the psychologist who wrote about the disciple of the person known as the "Wild Woman of Buttle" in lowercase is 01100100.
+   RAAgent答案: 1101011
+----------------------------------------------------------------------------------------------------
+
+30. 问题ID: 113
+   问题: What is the square of the sum of the digits of the year until when Tefik Selim Mborja was a part of a party that held power in Albania?
+   正确答案: 289.0
+   React答案: 324
+   RAAgent答案: 289
+----------------------------------------------------------------------------------------------------
+
+31. 问题ID: 117
+   问题: What is the year 7 years after the year when the American electronic music duo from Orlando, Florida that Angelspit toured the United States with was formed?
+   正确答案: 2013
+   React答案: 2007
+   RAAgent答案: 2013
+----------------------------------------------------------------------------------------------------
+
+32. 问题ID: 118
+   问题: What is the date 9 months before the date when the Disney sitcom in which Genevieve Knight "G" Hannelius starred as Avery Jennings ended?
+   正确答案: 2015-01-16
+   React答案: The date 9 months before the end of the Disney sitcom "Dog with a Blog", in which G. Hannelius starred as Avery Jennings, is December 12, 2014.
+   RAAgent答案: January 16, 2015
+----------------------------------------------------------------------------------------------------
+
+33. 问题ID: 126
+   问题: How many additional letters does the last name of Jodi Shepherd have compared to the last name of the role the actor who played Colonel Sherman T. Potter in "M*A*S*H" played in "Kentucky Jones"?
+   正确答案: 1
+   React答案: The last name "Shepherd" has 8 additional letters compared to the last name of the character Harry Morgan played in "Kentucky Jones", as the character (Smedley) does not have a known last name.
+   RAAgent答案: 1
+----------------------------------------------------------------------------------------------------
+
+34. 问题ID: 132
+   问题: What is the year of the birthdate of the director of an American short slasher film with French-speaking serial killers that was released on October 31, 2011?
+   正确答案: 1986
+   React答案: The year of the birthdate of the director of the American short slasher film with French-speaking serial killers released on October 31, 2011, is 1974.
+   RAAgent答案: 1986
+----------------------------------------------------------------------------------------------------
+
+35. 问题ID: 148
+   问题: How many times does the letter "m" appear in the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway?
+   正确答案: 1
+   React答案: The letter "m" appears 0 times in the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway.
+   RAAgent答案: 1
+----------------------------------------------------------------------------------------------------
+
+36. 问题ID: 156
+   问题: What is the date 10 days before the date of birth of the English inventor that developed the Richard Hornsby & Sons oil engine?
+   正确答案: 1864-01-18
+   React答案: The date 10 days before the date of birth of Herbert Akroyd Stuart, the English inventor who developed the Richard Hornsby & Sons oil engine, is January 3, 1864.
+   RAAgent答案: 18 January 1864
+----------------------------------------------------------------------------------------------------
+
+37. 问题ID: 157
+   问题: What the concatenation of the first and last digits of the form year of the British rock band which released the song "Lost!"?
+   正确答案: 16
+   React答案: 18
+   RAAgent答案: 16
+----------------------------------------------------------------------------------------------------
+
+38. 问题ID: 180
+   问题: Which day of the week was when Richard De Clare, 6Th Earl Of Gloucester's mother died?
+   正确答案: Tuesday
+   React答案: Richard De Clare, 6th Earl of Gloucester's mother, Isabel Marshal, died on a Friday.
+   RAAgent答案: Tuesday
+----------------------------------------------------------------------------------------------------
+
+39. 问题ID: 184
+   问题: How many vowels are there in the first name of the stepmother of Sara Ali Khan?
+   正确答案: 4
+   React答案: The first name of Sara Ali Khan's stepmother is "Amrita". It contains 3 vowels: 'A', 'i', and 'a'.
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+40. 问题ID: 187
+   问题: What is the last name of the paternal grandfather of Chiang Hsiao-Wu?
+   正确答案: Kai-shek
+   React答案: The last name of the paternal grandfather of Chiang Hsiao-Wu is Chiang.
+   RAAgent答案: 蒋
+----------------------------------------------------------------------------------------------------
+
+41. 问题ID: 189
+   问题: What is the last name of the paternal grandfather of Baha Al-Dawla?
+   正确答案: al-Dawla
+   React答案: The last name of the paternal grandfather of Baha Al-Dawla is Buyid.
+   RAAgent答案: al-Dawla
+----------------------------------------------------------------------------------------------------
+
+42. 问题ID: 194
+   问题: What is the date 3 months before the date of birth of Sir Henry St John-Mildmay, 4Th Baronet's father?
+   正确答案: 1764-06-30
+   React答案: The date 3 months before the birth of Sir Henry St John-Mildmay, 4th Baronet's father is March 15, 1754.
+   RAAgent答案: 30 June 1764
+----------------------------------------------------------------------------------------------------
+
+43. 问题ID: 199
+   问题: What is the closest palindrome number to when the publisher of Eye To The Telescope (Magazine) was founded?
+   正确答案: 1991
+   React答案: The closest palindrome number to the founding year of the publisher of Eye To The Telescope (Magazine), which is 2014, is 2002.
+   RAAgent答案: 1991
+----------------------------------------------------------------------------------------------------
+
+44. 问题ID: 200
+   问题: What is the sum of all the digits in the day, month and year of when Humphrey De Bohun, 2Nd Earl Of Hereford's father died?
+   正确答案: 12
+   React答案: The sum of all the digits in the day, month, and year of when Humphrey De Bohun, 2nd Earl Of Hereford's father died is 21.
+   RAAgent答案: 12
+----------------------------------------------------------------------------------------------------
+
+45. 问题ID: 213
+   问题: What is the ASCII code of the last letter of the first name of the spouse of the director of film The Invisible Menace?
+   正确答案: 110
+   React答案: The last letter of the first name of the spouse of the director of "The Invisible Menace" is 'y', and its ASCII code is 121.
+   RAAgent答案: 110
+----------------------------------------------------------------------------------------------------
+
+46. 问题ID: 218
+   问题: How many more vowels than consonants are there in the first name of the father of the composer of film Durval Discos?
+   正确答案: 1
+   React答案: There are 2 fewer vowels than consonants in the first name of the father of the composer of the film "Durval Discos." Therefore, the answer is -2.
+   RAAgent答案: 无法确定。虽然已确认电影《Durval Discos》的作曲家是 Antonio Pinto，但其父亲的姓名无法通过现有工具获取，相关查询返回“Unknown”。由于缺少父亲的名字，无法计算其名字中元音与辅音的数量差异。
+----------------------------------------------------------------------------------------------------
+
+47. 问题ID: 222
+   问题: How many more vowels than consonants are there in the first name of the stepmother of Sara Ali Khan?
+   正确答案: 1
+   React答案: There are 0 more vowels than consonants in the first name of the stepmother of Sara Ali Khan.
+   RAAgent答案: 1
+----------------------------------------------------------------------------------------------------
+
+48. 问题ID: 248
+   问题: What is the date 7 weeks before the date of birth of Stephanie Von Hohenlohe's husband?
+   正确答案: 1878-12-28
+   React答案: The date 7 weeks before the birth of Stephanie Von Hohenlohe's husband, Friedrich Franz von Hohenlohe-Waldenburg-Schillingsfürst, is May 16, 1856.
+   RAAgent答案: 28 December 1878
+----------------------------------------------------------------------------------------------------
+
+49. 问题ID: 251
+   问题: How many times does the letter "e" appear in the first name of Edward Wingfield, 2Nd Viscount Powerscourt's paternal grandmother?
+   正确答案: 2
+   React答案: The letter "e" appears 1 time in the first name of Edward Wingfield, 2nd Viscount Powerscourt's paternal grandmother.
+   RAAgent答案: 2
+----------------------------------------------------------------------------------------------------
+
+50. 问题ID: 253
+   问题: How many consonants are there in the first name of Viacheslav I Of Kiev's maternal grandfather?
+   正确答案: 4
+   React答案: There are 6 consonants in the first name of Viacheslav I of Kiev's maternal grandfather.
+
+Action: Finish
+Final Answer: 6
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+51. 问题ID: 254
+   问题: How many times does the letter "u" appear in the last name of Mehmed I's paternal grandmother?
+   正确答案: 1
+   React答案: The letter "u" appears 0 times in the last name (or commonly used name) of Mehmed I's paternal grandmother, Nilüfer Hatun. While her name contains "ü", it does not contain the letter "u".
+   RAAgent答案: 无法确定Mehmed I父系祖母的姓氏，因此无法计算字母'u'在其姓氏中出现的次数。现有工具和数据源均未提供关于Bayezid I母亲的任何家谱信息，导致问题无法解决。
+----------------------------------------------------------------------------------------------------
+
+52. 问题ID: 256
+   问题: How many consonants are there in the first name of the father of the director of film The Cup (1999 Film)?
+   正确答案: 5
+   React答案: There are 3 consonants in the first name of the father of the director of "The Cup" (1999).
+   RAAgent答案: 5
+----------------------------------------------------------------------------------------------------
+
+53. 问题ID: 259
+   问题: What is the difference between when the publisher of Eye To The Telescope (Magazine) was founded and the year 2024?
+   正确答案: 46
+   React答案: The publisher of "Eye to the Telescope", the Science Fiction & Fantasy Poetry Association, was founded in 2011. The difference between 2011 and 2024 is 13 years.
+   RAAgent答案: 46
+----------------------------------------------------------------------------------------------------
+
+54. 问题ID: 260
+   问题: What is the date one month after when Tatiana Tolstoy-Paus's husband died?
+   正确答案: 1983-04-11
+   React答案: The date one month after Tatiana Tolstoy-Paus's husband died is September 27, 1973.
+   RAAgent答案: 1983-04-11
+----------------------------------------------------------------------------------------------------
+
+55. 问题ID: 262
+   问题: How many additional letters does the first name of Alexandra Boyle have compared to the last name of the spouse of the director of film Fire-Eater (Film)?
+   正确答案: 3
+   React答案: The first name "Alexandra" has 1 more letter than the last name "Seppälä" of the spouse of the director of the film "Fire-Eater".
+   RAAgent答案: 3
+----------------------------------------------------------------------------------------------------
+
+56. 问题ID: 264
+   问题: What is the difference between when the publisher of The Rip Off Review Of Western Culture was founded and the year 2024?
+   正确答案: 55
+   React答案: The publisher of *The Rip Off Review Of Western Culture*, Rip Off Press, was founded in 1971. The difference between 1971 and 2024 is 53 years.
+   RAAgent答案: 55
+----------------------------------------------------------------------------------------------------
+
+57. 问题ID: 265
+   问题: What is the date one month after the date of death of Sissel Lange-Nielsen's husband?
+   正确答案: 2014-05-18
+   React答案: The date one month after the death of Sissel Lange-Nielsen's husband, Trygve Lange-Nielsen, is September 15, 2014.
+   RAAgent答案: 18 May 2014
+----------------------------------------------------------------------------------------------------
+
+58. 问题ID: 266
+   问题: What is the difference between when the publisher of American Scientist was founded and the year 2024?
+   正确答案: 138
+   React答案: The publisher of American Scientist, Sigma Xi, The Scientific Research Honor Society, was founded in 1902. The difference between 1902 and 2024 is 122 years.
+   RAAgent答案: 138
+----------------------------------------------------------------------------------------------------
+
+59. 问题ID: 271
+   问题: What is the last letter of the first name of William Paulet, 4Th Marquess Of Winchester's paternal grandmother?
+   正确答案: h
+   React答案: The last letter of the first name of William Paulet, 4th Marquess of Winchester's paternal grandmother (Lucy Somerset) is "y".
+   RAAgent答案: h
+----------------------------------------------------------------------------------------------------
+
+60. 问题ID: 275
+   问题: How many unique letters are there in the last name of Abaqa Khan's paternal grandmother?
+   正确答案: 4
+   React答案: There are 9 unique letters in the last name (Khongirad) of Abaqa Khan's paternal grandmother.
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+61. 问题ID: 278
+   问题: How many unique letters are there in the last name of the spouse of the director of film Hannele'S Journey To Heaven?
+   正确答案: 5
+   React答案: There are 6 unique letters in the last name "Nielsen" of Asta Nielsen, the spouse of Urban Gad, the director of "Hannele's Journey To Heaven".
+   RAAgent答案: 5
+----------------------------------------------------------------------------------------------------
+
+62. 问题ID: 296
+   问题: How many syllables are there in the last name of the father-in-law of Ove Aunli?
+   正确答案: 2
+   React答案: The last name of Ove Aunli's father-in-law, Bjørn Arne Vik, is "Vik," which has 1 syllable.
+   RAAgent答案: 2
+----------------------------------------------------------------------------------------------------
+
+63. 问题ID: 300
+   问题: How many syllables are there in the last name of the paternal grandfather of Ollom Fotla?
+   正确答案: 1
+   React答案: The last name of the paternal grandfather of Ollom Fotla, Árthach, has 2 syllables.
+   RAAgent答案: 无法确定 Ollom Fotla 的父系祖父的姓氏，因为其身份在现有数据源中不可查。尽管已确认 Ollom Fotla 的父亲为 Sétna Airt，但关于 Sétna Airt 父亲的信息无法通过任何工具获取，导致无法继续推导。因此，无法计算其姓氏的音节数。
+----------------------------------------------------------------------------------------------------
+
+64. 问题ID: 303
+   问题: What is the alphabetical order of the letters in the first name of the father of the director of film A No-Hit No-Run Summer?
+   正确答案: filxé
+   React答案: The alphabetical order of the letters in the first name of the father of the director of "A No-Hit No-Run Summer" is A, E, J, N.
+   RAAgent答案: filxé
+----------------------------------------------------------------------------------------------------
+
+65. 问题ID: 304
+   问题: What is the alphabetical order of the letters in the first name of the paternal grandfather of Ahmose-Henutemipet?
+   正确答案: aeeehknnrst
+   React答案: The first name of the paternal grandfather of Ahmose-Henutemipet is "Senakhtenre". The letters in alphabetical order are: a, e, e, h, k, n, n, r, s, t, e. Removing duplicates and sorting: a, e, h, k, n, r, s, t. Final alphabetical order of unique letters: a, e, h, k, n, r, s, t.
+   RAAgent答案: aeeehknnrst
+----------------------------------------------------------------------------------------------------
+
+66. 问题ID: 307
+   问题: What is the combined length of the first name and last name of the father of the director of film Little Joe (Film)?
+   正确答案: 13
+   React答案: The combined length of the first name and last name of the father of the director of the film "Little Joe" is 10.
+   RAAgent答案: 13
+----------------------------------------------------------------------------------------------------
+
+67. 问题ID: 308
+   问题: What is the year of Prince Raphael Rainer Of Thurn And Taxis's mother's birthday?
+   正确答案: 1870
+   React答案: The year of Prince Raphael Rainer of Thurn and Taxis's mother's birthday is 1958.
+   RAAgent答案: 1870
+----------------------------------------------------------------------------------------------------
+
+68. 问题ID: 319
+   问题: How many unique letters are there in the first name of the father of the director of film American Woman (2018 Film)?
+   正确答案: 6
+   React答案: There are 4 unique letters in the first name of the father of the director of the film "American Woman" (2018).
+   RAAgent答案: 6
+----------------------------------------------------------------------------------------------------
+
+69. 问题ID: 324
+   问题: What is the month (in number) of the date of death of Fitzroy Somerset, 5Th Baron Raglan's father?
+   正确答案: 9
+   React答案: 8
+   RAAgent答案: 9
+----------------------------------------------------------------------------------------------------
+
+70. 问题ID: 325
+   问题: What is the date 5 days after when Joseph-Édouard Perrault's father was born?
+   正确答案: 1846-05-18
+   React答案: The date 5 days after Joseph-Édouard Perrault's father was born is January 17, 1836.
+   RAAgent答案: May 18, 1846
+----------------------------------------------------------------------------------------------------
+
+71. 问题ID: 330
+   问题: How many repeated letters are there in the last name of Mehmed I's paternal grandmother?
+   正确答案: 0
+   React答案: There is 1 repeated letter in the last name "Aydina" of Mehmed I's paternal grandmother. The letter 'a' appears twice.
+   RAAgent答案: 无法确定，因为历史记录中缺乏关于Mehmed I父系祖母姓名的可靠信息，导致无法分析其姓氏中的重复字母数量。
+----------------------------------------------------------------------------------------------------
+
+72. 问题ID: 334
+   问题: What is the binary code of the last letter of the first name of the father of the director of film The Cup (1999 Film) in lowercase?
+   正确答案: 1111001
+   React答案: The binary code of the last letter of the first name of the father of the director of "The Cup" (1999) in lowercase is 01101111.
+   RAAgent答案: 1111001
+----------------------------------------------------------------------------------------------------
+
+73. 问题ID: 343
+   问题: What is the date 10 years after Maria Of Austria, Duchess Of Jülich-Cleves-Berg's husband's birthday?
+   正确答案: 1526-07-28
+   React答案: The date 10 years after Maria of Austria, Duchess of Jülich-Cleves-Berg's husband's birthday is July 28, 1526.
+   RAAgent答案: 1526年7月28日
+----------------------------------------------------------------------------------------------------
+
+74. 问题ID: 347
+   问题: What is the date 6 years after when Augusta Marie Of Holstein-Gottorp's father died?
+   正确答案: 1665-08-10
+   React答案: The date 6 years after the death of Augusta Marie of Holstein-Gottorp's father, Christian I, Duke of Holstein-Gottorp, is June 15, 1639.
+   RAAgent答案: 1665-08-10
+----------------------------------------------------------------------------------------------------
+
+75. 问题ID: 349
+   问题: What is the last letter of the last name of Eva Chamberlain's maternal grandmother?
+   正确答案: t
+   React答案: The last letter of the last name of Eva Chamberlain's maternal grandmother is 'h'.
+   RAAgent答案: t
+----------------------------------------------------------------------------------------------------
+
+76. 问题ID: 352
+   问题: How many additional letters does the last name of Noah Patrick have compared to the first name of the father of the director of film Little Joe (Film)?
+   正确答案: 1
+   React答案: The last name "Patrick" has 0 additional letters compared to the first name "Wilhelm" of the father of the director of the film "Little Joe."
+   RAAgent答案: 1
+----------------------------------------------------------------------------------------------------
+
+77. 问题ID: 363
+   问题: What is the ASCII code of the first letter of the last name of the mother of the director of film La Cage Aux Folles 3: The Wedding in lowercase?
+   正确答案: 115
+   React答案: The ASCII code of the lowercase letter "l" is 108.
+   RAAgent答案: 115
+----------------------------------------------------------------------------------------------------
+
+78. 问题ID: 364
+   问题: What is the date one week before when the director of film Is It Easy To Be Young died?
+   正确答案: 1992-06-16
+   React答案: The date one week before the director of the film *Is It Easy To Be Young* (Juris Podnieks) died is June 17, 1992.
+   RAAgent答案: June 16, 1992
+----------------------------------------------------------------------------------------------------
+
+79. 问题ID: 365
+   问题: What is the binary code of the first letter of the first name of the father of the director of film A No-Hit No-Run Summer in lowercase?
+   正确答案: 1100110
+   React答案: The binary code for the letter 'j' (ASCII value 106) is 1101010.
+   RAAgent答案: 1100110
+----------------------------------------------------------------------------------------------------
+
+80. 问题ID: 369
+   问题: What is the ASCII code of the first letter of the last name of the paternal grandfather of Baha Al-Dawla in lowercase?
+   正确答案: 97
+   React答案: 100
+   RAAgent答案: 97
+----------------------------------------------------------------------------------------------------
+
+81. 问题ID: 370
+   问题: What is the reverse order of the letters in the last name of the spouse of the director of film Hannele'S Journey To Heaven?
+   正确答案: neslein
+   React答案: rreK
+   RAAgent答案: neslein
+----------------------------------------------------------------------------------------------------
+
+82. 问题ID: 371
+   问题: How many fewer letters does the last name of Merle Beil have compared to the last name of the spouse of the director of film Hannele'S Journey To Heaven?
+   正确答案: 3
+   React答案: The film "Hannele's Journey To Heaven" could not be identified in the database, even with flexible search methods. As a result, the director and their spouse cannot be determined, making it impossible to compare the length of the last names. The last name "Beil" has 4 letters. Without the spouse's last name, the difference in letter count cannot be calculated.
+   RAAgent答案: 3
+----------------------------------------------------------------------------------------------------
+
+83. 问题ID: 376
+   问题: What is the binary code of the first letter of the first name of the father of the director of film Little Joe (Film) in lowercase?
+   正确答案: 1110010
+   React答案: The binary code of the first letter of the first name of the father of the director of "Little Joe" in lowercase is 01110111.
+   RAAgent答案: 1110010
+----------------------------------------------------------------------------------------------------
+
+84. 问题ID: 382
+   问题: What is the year 7 years after when the publisher of American Scientist was founded?
+   正确答案: 1893
+   React答案: The year 7 years after when the publisher of American Scientist (Sigma Xi) was founded is 1893.
+   RAAgent答案: 1893
+----------------------------------------------------------------------------------------------------
+
+85. 问题ID: 383
+   问题: What is the year 10 years after when the publisher of Hürriyet was founded?
+   正确答案: 2007
+   React答案: The year 10 years after when the publisher of Hürriyet, Doğan Media, was founded is 2003.
+   RAAgent答案: 2007
+----------------------------------------------------------------------------------------------------
+
+86. 问题ID: 386
+   问题: What is the year 10 years after when the publisher of The Miscellany News was founded?
+   正确答案: 1871
+   React答案: The year 10 years after when the publisher of The Miscellany News was founded is 1871.
+   RAAgent答案: 1871
+----------------------------------------------------------------------------------------------------
+
+87. 问题ID: 387
+   问题: How many letters (exclude the first and last) are there in the last name of the spouse of the director of film Hannele'S Journey To Heaven?
+   正确答案: 5
+   React答案: There are 4 letters (excluding the first and last) in the last name of the spouse of the director of the film "Hannele's Journey To Heaven".
+   RAAgent答案: 5
+----------------------------------------------------------------------------------------------------
+
+88. 问题ID: 395
+   问题: What is the ASCII code of the first letter of the first name of the spouse of the director of film The Belles Of St. Trinian'S in lowercase?
+   正确答案: 98
+   React答案: The ASCII code of the first letter of the first name of the spouse of the director of "The Belles of St. Trinian's" in lowercase is 110.
+   RAAgent答案: 98
+----------------------------------------------------------------------------------------------------
+
+89. 问题ID: 401
+   问题: What is the first letter of the last name of the spouse of the director of film Manamagan Thevai in lowercase?
+   正确答案: r
+   React答案: s
+   RAAgent答案: r
+----------------------------------------------------------------------------------------------------
+
+90. 问题ID: 403
+   问题: What is the year before when the publisher of Tribal College Journal was founded?
+   正确答案: 1971
+   React答案: The year before when the publisher of Tribal College Journal was founded is 1972.
+   RAAgent答案: 1971
+----------------------------------------------------------------------------------------------------
+
+91. 问题ID: 405
+   问题: What is the sum of the digits of the year when the publisher of Hürriyet Daily News was founded?
+   正确答案: 26
+   React答案: The sum of the digits of the year when the publisher of Hürriyet Daily News was founded is 18.
+   RAAgent答案: 26
+----------------------------------------------------------------------------------------------------
+
+92. 问题ID: 413
+   问题: How many fewer letters does the first name of Susan Cantrell have compared to the first name of the spouse of the director of film Manamagan Thevai?
+   正确答案: 5
+   React答案: The first name of Susan Cantrell has 2 fewer letters than the first name of the spouse of the director of the film "Manamagan Thevai".
+   RAAgent答案: 5
+----------------------------------------------------------------------------------------------------
+
+93. 问题ID: 415
+   问题: What is the result of multiplying 3 by the reverse of when the publisher of American Scientist was founded?
+   正确答案: 20643
+   React答案: The result of multiplying 3 by the reverse of the founding year of Sigma Xi (1886 → 6681) is 3 × 6681 = 20043.
+   RAAgent答案: 20643
+----------------------------------------------------------------------------------------------------
+
+94. 问题ID: 418
+   问题: What is the result of multiplying 2 by the reverse of when the publisher of National Contest Journal was founded?
+   正确答案: 8382
+   React答案: The result of multiplying 2 by the reverse of when the publisher of National Contest Journal (American Mathematical Society, founded in 1888) was founded is 2 × 8881 = 17762.
+   RAAgent答案: 8382
+----------------------------------------------------------------------------------------------------
+
+95. 问题ID: 425
+   问题: What is the result of multiplying 9 by the reverse of when the publisher of Tribal College Journal was founded?
+   正确答案: 25119
+   React答案: The result of multiplying 9 by the reverse of the founding year (1984 → 4891) is 9 × 4891 = 44019.
+   RAAgent答案: 25119
+----------------------------------------------------------------------------------------------------
+
+96. 问题ID: 428
+   问题: How many additional letters does the last name of Rick Norton have compared to the last name of Albert G. Simms's father-in-law?
+   正确答案: 1
+   React答案: The last name of Rick Norton ("Norton") has 6 letters. The last name of Albert G. Simms's father-in-law ("Newman") also has 6 letters. Therefore, the difference is 0 additional letters.
+   RAAgent答案: 1
+----------------------------------------------------------------------------------------------------
+
+97. 问题ID: 430
+   问题: What is the date 9 months after when Richard De Clare, 6Th Earl Of Gloucester's mother died?
+   正确答案: 1240-10-17
+   React答案: The date 9 months after Richard De Clare, 6th Earl of Gloucester's mother (Maud de Lacy) died is January 12, 1290.
+   RAAgent答案: 1240-10-17
+----------------------------------------------------------------------------------------------------
+
+98. 问题ID: 434
+   问题: What is the date one week before when Florentine Rost Van Tonningen's husband died?
+   正确答案: 1945-05-30
+   React答案: The date one week before Florentine Rost Van Tonningen's husband died is May 1, 1945.
+   RAAgent答案: 30 May 1945
+----------------------------------------------------------------------------------------------------
+
+99. 问题ID: 438
+   问题: How many hours are there between the winter time zone of where the director of film In The Bleak Midwinter (Film) graduated from and UTC?
+   正确答案: 0.0
+   React答案: The winter time zone of where Jimmy Smallhorne, the director of *In the Bleak Midwinter*, graduated (New York University, USA) is UTC-5. Therefore, there are 5 hours between this time zone and UTC.
+   RAAgent答案: 0
+----------------------------------------------------------------------------------------------------
+
+100. 问题ID: 447
+   问题: What is the sum of all the digits in the day, month and year of when the director of film Is It Easy To Be Young died?
+   正确答案: 32
+   React答案: The sum of all the digits in the day, month, and year of when the director of the film "Is It Easy To Be Young" died is 33.
+   RAAgent答案: 32
+----------------------------------------------------------------------------------------------------
+
+101. 问题ID: 450
+   问题: How many consonants are there in the first name of the paternal grandfather of Alexandre Berthier, 3Rd Prince Of Wagram?
+   正确答案: 7
+   React答案: There are 2 consonants in the first name ("Louis") of the paternal grandfather of Alexandre Berthier, 3rd Prince of Wagram.
+   RAAgent答案: 7
+----------------------------------------------------------------------------------------------------
+
+102. 问题ID: 454
+   问题: What is the date 7 years before when Paolo Ruspoli, 5Th Marquis Of Boadilla Del Monte's father died?
+   正确答案: 1937-11-07
+   React答案: The date 7 years before Paolo Ruspoli, 5th Marquis of Boadilla del Monte's father died is July 14, 1956.
+   RAAgent答案: November 7, 1937
+----------------------------------------------------------------------------------------------------
+
+103. 问题ID: 457
+   问题: How many syllables are there in the last name of Yujiulü Doulun's paternal grandfather?
+   正确答案: 3
+   React答案: The last name of Yujiulü Doulun's paternal grandfather, Yujiulü Wuti, is "Yujiulü," which has 4 syllables.
+   RAAgent答案: 3
+----------------------------------------------------------------------------------------------------
+
+104. 问题ID: 458
+   问题: How many syllables are there in the last name of the paternal grandfather of Euphemia Ii, Countess Of Ross?
+   正确答案: 2
+   React答案: The last name of the paternal grandfather of Euphemia I, Countess of Ross, is "Ross," which has 1 syllable.
+   RAAgent答案: 2
+----------------------------------------------------------------------------------------------------
+
+105. 问题ID: 461
+   问题: What is the total number of letters in the first name of the role the actor who played Colonel Sherman T. Potter in "M*A*S*H" played in "Kentucky Jones"?
+   正确答案: 6
+   React答案: The total number of letters in the first name of the role played by Harry Morgan in "Kentucky Jones" is 7.
+   RAAgent答案: 6
+----------------------------------------------------------------------------------------------------
+
+106. 问题ID: 467
+   问题: What is the year 8 years after the year of birth of the actress who created The Dogwoman telemovies?
+   正确答案: 1969
+   React答案: The year 8 years after the year of birth of the actress who created The Dogwoman telemovies is 1959.
+   RAAgent答案: 1969
+----------------------------------------------------------------------------------------------------
+
+107. 问题ID: 468
+   问题: What is the sum of all the digits in the day, month and year of the date the comedy film directed by Kevin Tent and starring the Bulgarian-Canadian actress known for portraying the role of Mia Jones will be released on video on demand services?
+   正确答案: 26
+   React答案: The sum of all the digits in the day, month, and year of the release date is 15.
+   RAAgent答案: 26
+----------------------------------------------------------------------------------------------------
+
+108. 问题ID: 469
+   问题: What is the cube of the sum of the digits of the year Roy Rogers and his third wife starred in a film directed by Frank McDonald?
+   正确答案: 6859.0
+   React答案: The cube of the sum of the digits of the year (1950) is 3375.
+   RAAgent答案: 6859
+----------------------------------------------------------------------------------------------------
+
+109. 问题ID: 477
+   问题: What is the binary code of the first letter of the first name of the director of a 2004 film where Kam Heskin plays Paige Morgan in in lowercase?
+   正确答案: 1101101
+   React答案: The binary code of the first letter (in lowercase) of the first name of the director is 1110011.
+   RAAgent答案: 1101101
+----------------------------------------------------------------------------------------------------
+
+110. 问题ID: 478
+   问题: What is the combined length of the first name and last name of the director of a 1977 film which shares a name with The third solo album by David Gates of Bread ?
+   正确答案: 11
+   React答案: The combined length of the first name and last name of the director of the 1977 film "Goodbye Girl", which shares a name with the third solo album by David Gates of Bread, is 13.
+   RAAgent答案: 11
+----------------------------------------------------------------------------------------------------
+
+111. 问题ID: 480
+   问题: What is the result of substracting 3 from the reverse of the year Roy Rogers and his third wife starred in a film directed by Frank McDonald?
+   正确答案: 5488
+   React答案: The result of subtracting 3 from the reverse of the year Roy Rogers and his third wife starred in a film directed by Frank McDonald is 588.
+   RAAgent答案: 5488
+----------------------------------------------------------------------------------------------------
+
+112. 问题ID: 492
+   问题: What is the square of the sum of the digits of the birth year of the person who wrote and illustrated a Japanese manga series based on a 16 year old high school student Ichitaka Seto?
+   正确答案: 324.0
+   React答案: The square of the sum of the digits of the birth year of Masami Tsuda, the writer and illustrator of the manga series featuring Ichitaka Seto, is 441.
+   RAAgent答案: 324
+----------------------------------------------------------------------------------------------------
+
+113. 问题ID: 495
+   问题: How many syllables are there in the first name of the author of the play that was adapted into a film and featured the orchestral arrangement Suite from Henry V?
+   正确答案: 2
+   React答案: The first name of the author of the play adapted into a film featuring the orchestral arrangement "Suite from Henry V" is "William", which has 3 syllables. (Note: Correction—“William” has two syllables: "Will" and "iam". Final count is 2.)
+
+Wait: Actually, “William” is pronounced /ˈwɪl.jəm/ and consists of **3 syllables**: Wil-li-am.
+
+Final Answer: The first name of the author of the play adapted into a film featuring the orchestral arrangement "Suite from Henry V" is "William", which has 3 syllables.
+   RAAgent答案: 2
+----------------------------------------------------------------------------------------------------
+
+114. 问题ID: 501
+   问题: What is the year of the date the comedy film directed by Kevin Tent and starring the Bulgarian-Canadian actress known for portraying the role of Mia Jones will be released on video on demand services?
+   正确答案: 2017
+   React答案: The comedy film directed by Kevin Tent and starring Nina Dobrev, the Bulgarian-Canadian actress known for portraying Mia Jones, will be released on video-on-demand services in the year 2024.
+   RAAgent答案: 2017
+----------------------------------------------------------------------------------------------------
+
+115. 问题ID: 509
+   问题: What is the date one week before the birth date of the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy?
+   正确答案: 1978-09-30
+   React答案: The date one week before the birth date of Yuvraj Singh, the former Indian cricketer who made his ODI debut during the 2000 ICC KnockOut Trophy, is December 5, 1981.
+   RAAgent答案: 1978年9月30日
+----------------------------------------------------------------------------------------------------
+
+116. 问题ID: 514
+   问题: What is the first letter of the first name of the director of a 1977 film which shares a name with The third solo album by David Gates of Bread  in lowercase?
+   正确答案: h
+   React答案: d
+   RAAgent答案: 无法确定。根据现有信息，David Gates 的第三张个人专辑是《Take Me Now》（1975），但没有记录显示1977年有同名电影。因此，无法找到符合条件的导演及其名字的首字母。
+----------------------------------------------------------------------------------------------------
+
+117. 问题ID: 515
+   问题: What is the product of the digits of the year the year of birth of the man who conducted the experiment Operation light house with Wernher von Braun?
+   正确答案: 360
+   React答案: The product of the digits of the year of birth (1904) of Walter Dornberger, who conducted the experiment Operation Light House with Wernher von Braun, is 0 (since 1 × 9 × 0 × 4 = 0).
+   RAAgent答案: 360
+----------------------------------------------------------------------------------------------------
+
+118. 问题ID: 529
+   问题: What is the date one month before the birthdate of the director of an American short slasher film with French-speaking serial killers that was released on October 31, 2011?
+   正确答案: 1986-05-11
+   React答案: The date one month before the birthdate of the director of the specified film is June 15, 1968.
+   RAAgent答案: May 11, 1986
+----------------------------------------------------------------------------------------------------
+
+119. 问题ID: 531
+   问题: What is the date 6 weeks after the birth date of the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy?
+   正确答案: 1978-11-18
+   React答案: The date 6 weeks after the birth date of Zaheer Khan, the former Indian cricketer who made his ODI debut during the 2000 ICC KnockOut Trophy, is November 18, 1978.
+   RAAgent答案: 18 November 1978
+----------------------------------------------------------------------------------------------------
+
+120. 问题ID: 534
+   问题: What is the date one week after the birth date of the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy?
+   正确答案: 1978-10-14
+   React答案: The date one week after the birth date of Yuvraj Singh, the former Indian cricketer who made his ODI debut during the 2000 ICC KnockOut Trophy, is December 19, 1981.
+   RAAgent答案: 1978-10-14
+----------------------------------------------------------------------------------------------------
+
+121. 问题ID: 536
+   问题: What is the date 5 months before the birth date of the British author who wrote the novel on which "Here We Go Round the Mulberry Bush"?
+   正确答案: 1935-08-07
+   React答案: The date 5 months before the birth date of Denis Potter, the British author who wrote the novel on which "Here We Go Round the Mulberry Bush" is based, is December 17, 1934.
+   RAAgent答案: 1935-08-07
+----------------------------------------------------------------------------------------------------
+
+122. 问题ID: 539
+   问题: What is the date 6 years after the release date of U2 album song An Cat Dubh / Into the Heart?
+   正确答案: 1986-10-20
+   React答案: The date 6 years after the release date of the U2 album containing the song "An Cat Dubh / Into the Heart" is October 20, 1986.
+   RAAgent答案: 1986-10-20
+----------------------------------------------------------------------------------------------------
+
+123. 问题ID: 542
+   问题: What is the date 3 days after the birthdate of this American comedian, actress, and writer, who was a supporting cast remember in Brooklyn Nine-Nine as Gina?
+   正确答案: 1978-02-23
+   React答案: The date 3 days after the birthdate of Chelsea Peretti, the American comedian, actress, and writer who played Gina in Brooklyn Nine-Nine, is February 23, 1978.
+   RAAgent答案: February 23, 1978
+----------------------------------------------------------------------------------------------------
+
+124. 问题ID: 549
+   问题: What is the sum of the (unique) prime factors of the year of birth of the actor who appeared on Charlotte's Shorts and Weeds?
+   正确答案: 985
+   React答案: The sum of the unique prime factors of the birth year (1965) of Gary Anthony Williams, the actor who appeared in both "Charlotte's Shorts" and "Weeds", is 139.
+   RAAgent答案: 985
+----------------------------------------------------------------------------------------------------
+
+125. 问题ID: 551
+   问题: What is the last letter of the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway?
+   正确答案: m
+   React答案: The last letter of the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway is "d".
+   RAAgent答案: m
+----------------------------------------------------------------------------------------------------
+
+126. 问题ID: 553
+   问题: What is the sum of the (unique) prime factors of the year the brother of this first round draft pick by the Washington Redskins was drafted?
+   正确答案: 2003
+   React答案: The sum of the unique prime factors of the year the brother of Robert Griffin III (a first-round draft pick by the Washington Redskins) was drafted is 1011.
+   RAAgent答案: 2003
+----------------------------------------------------------------------------------------------------
+
+127. 问题ID: 557
+   问题: What is the difference between the birth year of the player who Charles Barkley changed his jersey number to #32 in honor of and the year 2024?
+   正确答案: 65
+   React答案: The difference between the birth year of Wilt Chamberlain (1936), whom Charles Barkley honored by changing his jersey number to #32, and the year 2024 is 88 years.
+   RAAgent答案: 65
+----------------------------------------------------------------------------------------------------
+
+128. 问题ID: 563
+   问题: What is the sum of all the digits in the day, month and year of the birth date of the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy?
+   正确答案: 33
+   React答案: The sum of all the digits in the day, month, and year of Yuvraj Singh's birth date is 25.
+   RAAgent答案: 33
+----------------------------------------------------------------------------------------------------
+
+129. 问题ID: 571
+   问题: What is the closest palindrome number to the year when the American electronic music duo from Orlando, Florida that Angelspit toured the United States with was formed?
+   正确答案: 2002
+   React答案: The closest palindrome number to the formation year (2007) of Blood on the Dance Floor, the American electronic music duo from Orlando, Florida that Angelspit toured with, is 2010.
+   RAAgent答案: 2002
+----------------------------------------------------------------------------------------------------
+
+130. 问题ID: 574
+   问题: What is the date one day after the date of birth of the director of film Night Of The Twelve?
+   正确答案: 1895-10-02
+   React答案: The date one day after the date of birth of the director of the film "Night Of The Twelve" is August 24, 1907.
+   RAAgent答案: 2 October 1895
+----------------------------------------------------------------------------------------------------
+
+131. 问题ID: 578
+   问题: Which day of the week was the date of death of Catherine Of Guelders's father?
+   正确答案: Sunday
+   React答案: The date of death of Catherine of Guelders's father, Arnold, Duke of Guelders, was on a Thursday.
+   RAAgent答案: Sunday
+----------------------------------------------------------------------------------------------------
+
+132. 问题ID: 581
+   问题: What is the closest palindrome number to the year of the date of death of Princess Béatrice Of Bourbon-Two Sicilies's father?
+   正确答案: 2002
+   React答案: The closest palindrome number to the year of death (1960) of Princess Béatrice of Bourbon-Two Sicilies's father, Prince Ferdinand Pius, Duke of Castro, is 1991.
+   RAAgent答案: 2002
+----------------------------------------------------------------------------------------------------
+
+133. 问题ID: 591
+   问题: What is the combined length of the first name and last name of the father of the director of film The Cup (1999 Film)?
+   正确答案: 12
+   React答案: The combined length of the first name and last name of the father of the director of "The Cup" (1999) is 13.
+   RAAgent答案: 12
+----------------------------------------------------------------------------------------------------
+
+134. 问题ID: 594
+   问题: What is the sum of all the digits in the day, month and year of the date when Selena Quintanilla-Pérez's assistant and head of her fan club will be eligible for parole?
+   正确答案: 15
+   React答案: The sum of all the digits in the day, month, and year of the parole eligibility date (March 29, 2025) is 23.
+   RAAgent答案: 最终答案
+----------------------------------------------------------------------------------------------------
+
+135. 问题ID: 595
+   问题: What is the combined length of the first name and last name of the spouse of the director of film Bratuku Teruvu?
+   正确答案: 21
+   React答案: The combined length of the first name and last name of the spouse of the director of the film "Bratuku Teruvu" is 15.
+   RAAgent答案: 21
+----------------------------------------------------------------------------------------------------
+
+136. 问题ID: 599
+   问题: How many letters (exclude the first and last) are there in the first name of the father of the director of film Little Joe (Film)?
+   正确答案: 4
+   React答案: There are 2 letters in the first name of the father of the director of the film "Little Joe," excluding the first and last letters.
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+137. 问题ID: 600
+   问题: What is the concatenation of the first letter of the first name and the last letter of the last name of William Paulet, 4Th Marquess Of Winchester's paternal grandmother in lowercase?
+   正确答案: ey
+   React答案: ll
+   RAAgent答案: ey
+----------------------------------------------------------------------------------------------------
+
+138. 问题ID: 609
+   问题: How many letters (exclude the first and last) are there in the first name of the spouse of the director of film The Invisible Menace?
+   正确答案: 5
+   React答案: There are 3 letters in the first name of the spouse of the director of "The Invisible Menace", excluding the first and last letters.
+   RAAgent答案: 5
+----------------------------------------------------------------------------------------------------
+
+139. 问题ID: 610
+   问题: What is the date one week after the date of birth of Dolores Gangotena's husband?
+   正确答案: 1912-02-07
+   React答案: The date one week after the date of birth of Dolores Gangotena's husband, Diego Salcedo, is March 21, 1952.
+   RAAgent答案: February 7, 1912
+----------------------------------------------------------------------------------------------------
+
+140. 问题ID: 612
+   问题: What is the date one week after the date of death of Eric I, Duke Of Schleswig's father?
+   正确答案: 1252-07-06
+   React答案: The date one week after the death of Eric I, Duke of Schleswig's father (King Eric V of Denmark) is November 29, 1286.
+   RAAgent答案: 6 July 1252
+----------------------------------------------------------------------------------------------------
+
+141. 问题ID: 615
+   问题: What is the year of when John Hodgetts-Foley's father was born?
+   正确答案: 1747
+   React答案: The year John Hodgetts-Foley's father was born is 1897.
+   RAAgent答案: 1747
+----------------------------------------------------------------------------------------------------
+
+142. 问题ID: 634
+   问题: How many vowels are there in the last name of Abu Mansur Fulad Sutun's paternal grandfather?
+   正确答案: 3
+   React答案: There are 3 vowels in the last name "al-Dawla" of Abu Mansur Fulad Sutun's paternal grandfather.
+   RAAgent答案: 3
+----------------------------------------------------------------------------------------------------
+
+143. 问题ID: 636
+   问题: What is the date 9 years after the date of death of Catherine Of Guelders's father?
+   正确答案: 1482-02-23
+   React答案: The date 9 years after the death of Catherine of Guelders's father, Arnold, Duke of Guelders, is 23 February 1482.
+   RAAgent答案: 由于系统工具无法成功检索 Arnold, Duke of Guelders 的死亡日期，尽管已确认其身份，仍无法完全基于可用工具完成计算。但根据外部可靠历史资料，Arnold 死于1473年2月23日，因此9年后为1482年2月23日。最终答案为：1482年2月23日。
+----------------------------------------------------------------------------------------------------
+
+144. 问题ID: 639
+   问题: How many unique letters are there in the last name of the spouse of the director of film Bratuku Teruvu?
+   正确答案: 8
+   React答案: The spouse of the director of "Bratuku Teruvu" is Annapurna. Assuming "Annapurna" is the only name available, the unique letters in this name are A, N, P, U, R — totaling 5 unique letters. Therefore, the number of unique letters in the last name (or full name) is 5.
+   RAAgent答案: 8
+----------------------------------------------------------------------------------------------------
+
+145. 问题ID: 645
+   问题: What is the date 3 days after the date of death of the director of film Nallavan Vazhvan?
+   正确答案: 1992-09-06
+   React答案: The date 3 days after the death of A. Bhimsingh, the director of the film *Nallavan Vazhvan*, is December 26, 1978.
+   RAAgent答案: 6 September 1992
+----------------------------------------------------------------------------------------------------
+
+146. 问题ID: 649
+   问题: What is the date one month after when Humphrey De Bohun, 2Nd Earl Of Hereford's father died?
+   正确答案: 1220-07-01
+   React答案: One month after the death of Humphrey De Bohun, 2nd Earl of Hereford's father, Humphrey De Bohun, 1st Earl of Hereford, is December 27, 1275.
+   RAAgent答案: June 17, 1220
+----------------------------------------------------------------------------------------------------
+
+147. 问题ID: 661
+   问题: What is the ASCII code of the first letter of the first name of the father of the director of film A No-Hit No-Run Summer in lowercase?
+   正确答案: 102
+   React答案: 106
+   RAAgent答案: 102
+----------------------------------------------------------------------------------------------------
+
+148. 问题ID: 675
+   问题: What is the date 8 days before when Joseph-Édouard Perrault's father was born?
+   正确答案: 1846-05-05
+   React答案: The date 8 days before Joseph-Édouard Perrault's father was born is March 7, 1834.
+   RAAgent答案: May 5, 1846
+----------------------------------------------------------------------------------------------------
+
+149. 问题ID: 680
+   问题: What is the binary code of the first letter of the last name of the mother of the director of film Operation Gold Ingot in lowercase?
+   正确答案: 1110011
+   React答案: The binary code of the first letter of the last name of the mother of the director of "Operation Gold Ingot" is 01110010.
+   RAAgent答案: 1110011
+----------------------------------------------------------------------------------------------------
+
+150. 问题ID: 684
+   问题: What is the first letter of the last name of Abu Mansur Fulad Sutun's paternal grandfather in lowercase?
+   正确答案: a
+   React答案: s
+   RAAgent答案: a
+----------------------------------------------------------------------------------------------------
+
+151. 问题ID: 686
+   问题: What is the last letter of the first name of Albert G. Simms's father-in-law?
+   正确答案: k
+   React答案: The last letter of the first name of Albert G. Simms's father-in-law is "s".
+   RAAgent答案: k
+----------------------------------------------------------------------------------------------------
+
+152. 问题ID: 687
+   问题: What is the first letter of the last name of the mother of the director of film La Cage Aux Folles 3: The Wedding in lowercase?
+   正确答案: s
+   React答案: l
+   RAAgent答案: s
+----------------------------------------------------------------------------------------------------
+
+153. 问题ID: 698
+   问题: What is the first letter of the first name of the father of the director of film Little Joe (Film) in lowercase?
+   正确答案: r
+   React答案: w
+   RAAgent答案: r
+----------------------------------------------------------------------------------------------------
+
+154. 问题ID: 699
+   问题: How many consonants are there in the first name of Charles Monck, 3Rd Viscount Monck's paternal grandfather?
+   正确答案: 4
+   React答案: There are 5 consonants in the first name of Charles Monck, 3rd Viscount Monck's paternal grandfather.
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+155. 问题ID: 700
+   问题: What is the first letter of the first name of the father of the composer of film Durval Discos in lowercase?
+   正确答案: a
+   React答案: e
+   RAAgent答案: a
+----------------------------------------------------------------------------------------------------
+
+156. 问题ID: 715
+   问题: What is the date one year after the date of birth of the director of Kon-Tiki (1950 Film)?
+   正确答案: 1915-10-06
+   React答案: The date one year after the date of birth of the director of Kon-Tiki (1950 film), Thor Heyerdahl, is October 6, 1915.
+   RAAgent答案: October 6, 1915
+----------------------------------------------------------------------------------------------------
+
+157. 问题ID: 716
+   问题: How many unique letters are there in the first name of the mother of the director of film Cop Or Hood?
+   正确答案: 4
+   React答案: There are 5 unique letters in the first name of the mother of the director of the film "Cop Or Hood."
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+158. 问题ID: 724
+   问题: What is the binary code of the last letter of the first name of William Paulet, 4Th Marquess Of Winchester's paternal grandmother in lowercase?
+   正确答案: 1101000
+   React答案: The last letter of the first name of William Paulet, 4th Marquess of Winchester's paternal grandmother (Lucy Somerset) is 'y'. The ASCII binary code for 'y' is 01111001.
+   RAAgent答案: 01101000
+----------------------------------------------------------------------------------------------------
+
+159. 问题ID: 732
+   问题: How many times does the letter "f" appear in the first name of the father of the director of film A No-Hit No-Run Summer?
+   正确答案: 1
+   React答案: The letter "f" appears 0 times in the first name "Denis".
+   RAAgent答案: 1
+----------------------------------------------------------------------------------------------------
+
+160. 问题ID: 734
+   问题: What is the date 3 weeks before when the director of film Is It Easy To Be Young died?
+   正确答案: 1992-06-02
+   React答案: The date 3 weeks before when the director of the film "Is It Easy To Be Young" died is March 25, 2023.
+   RAAgent答案: June 2, 1992
+----------------------------------------------------------------------------------------------------
+
+161. 问题ID: 737
+   问题: How many vowels are there in the first name of the father of the director of film American Woman (2018 Film)?
+   正确答案: 2
+   React答案: There is 1 vowel in the first name of the father of the director of the film *American Woman* (2018).
+   RAAgent答案: 2
+----------------------------------------------------------------------------------------------------
+
+162. 问题ID: 739
+   问题: What is the total number of letters in the last name of the paternal grandfather of Euphemia Ii, Countess Of Ross?
+   正确答案: 6
+   React答案: The total number of letters in the last name of the paternal grandfather of Euphemia II, Countess of Ross, is 4.
+   RAAgent答案: 6
+----------------------------------------------------------------------------------------------------
+
+163. 问题ID: 749
+   问题: What is the concatenation of the first letters of the first name and last name of the father of the director of film American Woman (2018 Film) in lowercase?
+   正确答案: rs
+   React答案: ts
+   RAAgent答案: rs
+----------------------------------------------------------------------------------------------------
+
+164. 问题ID: 753
+   问题: What is the binary code of the first letter of the first name of the paternal grandfather of Máel Ruanaid Mac Donnchada Midi in lowercase?
+   正确答案: 1100100
+   React答案: The binary code of the first letter of the first name of the paternal grandfather of Máel Ruanaid Mac Donnchada Midi in lowercase is 1101101.
+   RAAgent答案: 无法通过系统工具完全确定 Máel Ruanaid Mac Donnchada Midi 的父系祖父姓名，因为所有尝试查询其祖父（即 Donnchad Midi 的父亲）的任务均失败，原因可能是工具初始化失败、数据库缺失或查询解析问题。然而，基于外部历史谱系资料，Donnchad Midi 的父亲为 Domnall Midi，因此其祖父的名字首字母为 'D'，小写后为 'd'，对应的 ASCII 二进制代码为 1100100。但由于该信息未通过指定工具成功验证，答案存在不确定性。若仅依据可验证步骤，则祖父姓名未知，无法生成二进制码。
+----------------------------------------------------------------------------------------------------
+
+165. 问题ID: 757
+   问题: How many syllables are there in the first name of William Paulet, 4Th Marquess Of Winchester's paternal grandmother?
+   正确答案: 4
+   React答案: The first name of William Paulet, 4th Marquess of Winchester's paternal grandmother is "Lucy", which has 2 syllables.
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+166. 问题ID: 764
+   问题: What is the sum of the (unique) prime factors of when the publisher of American Scientist was founded?
+   正确答案: 66
+   React答案: The sum of the unique prime factors of the year the publisher of American Scientist was founded is 1913.
+   RAAgent答案: 66
+----------------------------------------------------------------------------------------------------
+
+167. 问题ID: 766
+   问题: What the concatenation of the second and third digits of when the publisher of National Contest Journal was founded?
+   正确答案: 91
+   React答案: 11
+   RAAgent答案: 91
+----------------------------------------------------------------------------------------------------
+
+168. 问题ID: 769
+   问题: What is the closest palindrome number to the year of the date of death of the composer of film Oomana Thinkal?
+   正确答案: 1991
+   React答案: The closest palindrome number to the year of the date of death of the composer of the film "Oomana Thinkal" (M. B. Sreenivasan, who died in 2005) is 2002.
+   RAAgent答案: 1991
+----------------------------------------------------------------------------------------------------
+
+169. 问题ID: 771
+   问题: What is the closest palindrome number to the year of Octavius Vernon Harcourt's father's birthday?
+   正确答案: 1771
+   React答案: Unable to determine the closest palindrome number to the year of Octavius Vernon Harcourt's father's birthday due to insufficient genealogical records.
+   RAAgent答案: 1771
+----------------------------------------------------------------------------------------------------
+
+170. 问题ID: 778
+   问题: Which day of the week was the date of death of Carlo I Cybo-Malaspina's father?
+   正确答案: Thursday
+   React答案: The date of death of Carlo I Cybo-Malaspina's father, Alderano Cybo-Malaspina, was on a Tuesday (27 March 1690).
+   RAAgent答案: Thursday
+----------------------------------------------------------------------------------------------------
+
+171. 问题ID: 798
+   问题: What is the month (in number) of when Charles Somers-Cocks, 3Rd Earl Somers's father died?
+   正确答案: 10
+   React答案: 11
+   RAAgent答案: 10
+----------------------------------------------------------------------------------------------------
+
+172. 问题ID: 800
+   问题: How many times does the letter "n" appear in the first name of the father of the director of film Snake In The Eagle'S Shadow?
+   正确答案: 1
+   React答案: The letter "n" appears 2 times in the first name "Yung" of Liu Yung-Ching, the father of the director of the film "Snake In The Eagle's Shadow".
+   RAAgent答案: 1
+----------------------------------------------------------------------------------------------------
+
+173. 问题ID: 801
+   问题: What is the day of the date of birth of Dolores Gangotena's husband?
+   正确答案: 31
+   React答案: The day of the date of birth of Dolores Gangotena's husband, Jaime Roldós, is Thursday.
+   RAAgent答案: 31
+----------------------------------------------------------------------------------------------------
+
+174. 问题ID: 803
+   问题: How many hours are there between the winter time zone of the place of birth of the director of film Frozen Assets (Film) and UTC?
+   正确答案: 0.0
+   React答案: The winter time zone of the place of birth of the director of "Frozen Assets" (Sydney, Australia) is 10 hours ahead of UTC.
+   RAAgent答案: 无法完成完整计算，因为尽管已成功确认电影《Frozen Assets》的导演为 Graeme Campbell，但所有尝试获取其出生地的自动化方法均失败（网络请求被拒绝或工具受限）。由于缺少出生地信息，无法确定其冬季所在时区，进而无法计算与 UTC 的时间差。若基于外部公开资料，Graeme Campbell 出生于英国格拉斯哥，该地冬季时区为 UTC+0，时间差为 0 小时，但此信息未通过系统验证。最终答案无法可靠生成。
+----------------------------------------------------------------------------------------------------
+
+175. 问题ID: 804
+   问题: How many days lay between the date of birth of Catherine Of Foix, Countess Of Candale's mother and Thursday, 25 July 1996?
+   正确答案: 208362
+   React答案: There were 208,347 days between the date of birth of Catherine of Foix, Countess of Candale's mother (Eleanor of Navarre, born 22 February 1426) and Thursday, 25 July 1996.
+   RAAgent答案: 208,362
+----------------------------------------------------------------------------------------------------
+
+176. 问题ID: 807
+   问题: How many days lay between the date of death of the director of film Break The News and 01 Sep 2025?
+   正确答案: 16241
+   React答案: There are 16,248 days between the date of death of René Clair, the director of "Break The News," and September 1, 2025.
+   RAAgent答案: 16241
+----------------------------------------------------------------------------------------------------
+
+177. 问题ID: 814
+   问题: What is the date one week after the date of birth of the director of film Liberated Hands?
+   正确答案: 1895-10-08
+   React答案: The date one week after the birthdate of Hans Schweikart, the director of "Liberated Hands," is July 3, 1895.
+   RAAgent答案: 8 October 1895
+----------------------------------------------------------------------------------------------------
+
+178. 问题ID: 819
+   问题: What is the date one week before the date of death of the composer of film Oomana Thinkal?
+   正确答案: 1988-03-02
+   React答案: The date one week before the death of M. B. Sreenivasan, the composer of the film "Oomana Thinkal," is June 11, 2005.
+   RAAgent答案: 2 March 1988
+----------------------------------------------------------------------------------------------------
+
+179. 问题ID: 826
+   问题: What is the date one day after the date of death of the director of film Nallavan Vazhvan?
+   正确答案: 1992-09-04
+   React答案: The provided tools do not allow retrieval of the date of death of the director of "Nallavan Vazhvan," Palaniyaandi Neelakantan. Therefore, it is not possible to calculate the date one day after his death using the available functionality.
+   RAAgent答案: 4 September 1992
+----------------------------------------------------------------------------------------------------
+
+180. 问题ID: 830
+   问题: What is the month (in number) of when Philip III Of Namur's father died?
+   正确答案: 1
+   React答案: 12
+   RAAgent答案: 1
+----------------------------------------------------------------------------------------------------
+
+181. 问题ID: 834
+   问题: How many unique letters are there in the place where the author of Hannibal and Scipio was educated?
+   正确答案: 8
+   React答案: There are 13 unique letters in the name of the institution where the author of "Hannibal and Scipio" was educated.
+   RAAgent答案: 8
+----------------------------------------------------------------------------------------------------
+
+182. 问题ID: 836
+   问题: How many repeated letters are there in the first name of the paternal grandfather of Diya Al-Dawla?
+   正确答案: 0
+   React答案: The genealogical records for Diya Al-Dawla are not available in the current database, making it impossible to identify the paternal grandfather or analyze repeated letters in his first name.
+   RAAgent答案: 无法确定 Diya Al-Dawla 的父系祖父的第一名字，因为所有尝试获取其具体姓名的任务均失败，系统仅返回模拟确认信息而无实际姓名数据。因此，无法计算其名字中重复字母的数量。
+----------------------------------------------------------------------------------------------------
+
+183. 问题ID: 839
+   问题: What is the name of the place where the author of Hannibal and Scipio was educated, without spaces?
+   正确答案: ExeterCollege
+   React答案: UniversityofOxford
+   RAAgent答案: ExeterCollege
+----------------------------------------------------------------------------------------------------
+
+184. 问题ID: 842
+   问题: How many letters (exclude the first and last) are there in the first name of the paternal grandfather of Diya Al-Dawla?
+   正确答案: 2
+   React答案: There are 3 letters (excluding the first and last) in the first name of the paternal grandfather of Diya Al-Dawla.
+   RAAgent答案: 2
+----------------------------------------------------------------------------------------------------
+
+185. 问题ID: 844
+   问题: What is the last vowel in the place where the author of Hannibal and Scipio was educated?
+   正确答案: e
+   React答案: The last vowel in the place where the author of Hannibal and Scipio was educated is 'u'.
+   RAAgent答案: e
+----------------------------------------------------------------------------------------------------
+
+186. 问题ID: 847
+   问题: What are the initials of the name of the place where the author of Hannibal and Scipio was educated?
+   正确答案: EC
+   React答案: WP
+   RAAgent答案: C
+----------------------------------------------------------------------------------------------------
+
+187. 问题ID: 851
+   问题: How many times does the letter 'r' appear in the place where the author of Hannibal and Scipio was educated?
+   正确答案: 1
+   React答案: The letter 'r' appears 4 times in "Trinity College, Oxford." (T-r-i-n-i-t-y C-o-l-l-e-g-e-, O-x-f-o-r-d) — counting both 'r's in "Trinity" and one each in "College" and "Oxford.")
+   RAAgent答案: 1
+----------------------------------------------------------------------------------------------------
+
+188. 问题ID: 862
+   问题: What is the last vowel in the name of the university attended by the author of Elizabeth and After?
+   正确答案: o
+   React答案: The last vowel in "St. Francis Xavier University" is 'i'.
+   RAAgent答案: o
+----------------------------------------------------------------------------------------------------
+
+189. 问题ID: 864
+   问题: How many different letters are used in the name of the university attended by the author of Elizabeth and After?
+   正确答案: 11
+   React答案: The name "University of Pennsylvania" uses 13 different letters.
+   RAAgent答案: 11
+----------------------------------------------------------------------------------------------------
+
+190. 问题ID: 865
+   问题: What is the concatenation of the first letters of the first name and last name of the child of Caroline LeRoy's spouse in lowercase?
+   正确答案: fw
+   React答案: dw
+   RAAgent答案: fw
+----------------------------------------------------------------------------------------------------
+
+191. 问题ID: 875
+   问题: How many consonants are there in the first name of the founder of the political party of Dimuthu Bandara Abayakoon?
+   正确答案: 3
+   React答案: There are 4 consonants in the first name of the founder of the political party of Dimuthu Bandara Abayakoon.
+   RAAgent答案: 3
+----------------------------------------------------------------------------------------------------
+
+192. 问题ID: 878
+   问题: How many repeated letters are there in the last name of the father of Empress Wang's husband?
+   正确答案: 1
+   React答案: There are 0 repeated letters in the last name of the father of Empress Wang's husband.
+   RAAgent答案: 0
+----------------------------------------------------------------------------------------------------
+
+193. 问题ID: 884
+   问题: How many distinct two-letter combinations exist in the first name of the spouse of the creator of Ruby Loftus Screwing a Breech Ring?
+   正确答案: 15
+   React答案: There are 5 distinct two-letter combinations in the first name "Harold" of the spouse of the creator of "Ruby Loftus Screwing a Breech Ring."
+   RAAgent答案: 15
+----------------------------------------------------------------------------------------------------
+
+194. 问题ID: 887
+   问题: How many unique letters are there in the last name of the child of the cast member of Ice Bound: A Woman's Survival at the South Pole?
+   正确答案: 5
+   React答案: The last name of Susan Sarandon is "Sarandon". The unique letters in "Sarandon" are S, A, R, N, D, O — totaling 6 unique letters. Therefore, the answer is 6.
+   RAAgent答案: 5
+----------------------------------------------------------------------------------------------------
+
+195. 问题ID: 892
+   问题: What is the ASCII code of the first letter of the last name of the child of the cast member of Ice Bound: A Woman's Survival at the South Pole in lowercase?
+   正确答案: 97
+   React答案: The requested information cannot be retrieved because the movie "Ice Bound: A Woman's Survival at the South Pole" was not found in the database, and no cast members could be identified. As a result, it is not possible to determine the ASCII code of the first letter of the last name of the child of a cast member.
+   RAAgent答案: 97
+----------------------------------------------------------------------------------------------------
+
+196. 问题ID: 897
+   问题: What is the ASCII code of the last letter of the last name of the paternal grandfather of Alice Clere?
+   正确答案: 110
+   React答案: The last letter of the last name of Alice Clere's paternal grandfather (Thomas Clere) is 'e'. The ASCII code of 'e' is 101.
+   RAAgent答案: 110
+----------------------------------------------------------------------------------------------------
+
+197. 问题ID: 898
+   问题: How many consonants are there in the last name of the paternal grandfather of Alice Clere?
+   正确答案: 4
+   React答案: There are 3 consonants in the last name "Clere" of Alice Clere's paternal grandfather, Sir John Clere.
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+198. 问题ID: 905
+   问题: What is the alphabetical order of the letters in the first name of Frances Freeling Broderip's sibling?
+   正确答案: mot
+   React答案: The alphabetical order of the letters in the first name of Frances Freeling Broderip's sibling (Horace) is: A, C, E, H, O, R.
+   RAAgent答案: mot
+----------------------------------------------------------------------------------------------------
+
+199. 问题ID: 906
+   问题: How many additional letters does the first name of Lori Lyons have compared to the first name of Frances Freeling Broderip's sibling?
+   正确答案: 1
+   React答案: The first name of Lori Lyons ("Lori") has 4 letters, while the first name of Frances Freeling Broderip's sibling ("Thomas") has 6 letters. Therefore, the first name of Lori Lyons has 2 fewer letters than the first name of Frances Freeling Broderip's sibling. So, the answer is -2 (or 2 fewer).
+   RAAgent答案: 1
+----------------------------------------------------------------------------------------------------
+
+200. 问题ID: 908
+   问题: What is the concatenation of the last letters of the first name and last name of the spouse of the actor from Terminator?
+   正确答案: ar
+   React答案: nl
+   RAAgent答案: ar
+----------------------------------------------------------------------------------------------------
+
+201. 问题ID: 910
+   问题: How many letters (exclude the first and last) are there in the last name of the paternal grandfather of Alice Clere?
+   正确答案: 4
+   React答案: The last name of Alice Clere's paternal grandfather is "Clere", which has 5 letters. Excluding the first and last letters, there are 3 letters. Therefore, the answer is 3.
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+202. 问题ID: 917
+   问题: What is the first letter of the first name of the child of the person who sponsored the resolution to reopen trade with Vietnam, along with Kerry in lowercase?
+   正确答案: m
+   React答案: Mkerry
+   RAAgent答案: m
+----------------------------------------------------------------------------------------------------
+
+203. 问题ID: 924
+   问题: How many syllables are there in the first name of the child of the person who sponsored the resolution to reopen trade with Vietnam, along with Kerry?
+   正确答案: 2
+   React答案: The first names of John McCain's children and their syllable counts are: Douglas (2 syllables), Andrew (2 syllables), Sidney (3 syllables), and James (1 syllable). Therefore, depending on which child is referred to, the number of syllables ranges from 1 to 3.
+   RAAgent答案: 2
+----------------------------------------------------------------------------------------------------
+
+204. 问题ID: 933
+   问题: How many repeated letters are there in the first name of the child of the person who sponsored the resolution to reopen trade with Vietnam, along with Kerry?
+   正确答案: 0
+   React答案: 1
+   RAAgent答案: 0
+----------------------------------------------------------------------------------------------------
+
+205. 问题ID: 936
+   问题: How many repeated letters are there in the last name of the father of Nim's actress in Return to Nim's Island?
+   正确答案: 1
+   React答案: There are 0 repeated letters in the last name of the father of Nim's actress in *Return to Nim's Island*.
+   RAAgent答案: 1
+----------------------------------------------------------------------------------------------------
+
+206. 问题ID: 939
+   问题: How many unique letters are there in the last name of the father of Nim's actress in Return to Nim's Island?
+   正确答案: 4
+   React答案: The last name "Irwin" has 5 unique letters: I, r, w, and n. Therefore, the number of unique letters in the last name of the father of Nim's actress in *Return to Nim's Island* is 5.
+   RAAgent答案: 4
+----------------------------------------------------------------------------------------------------
+
+207. 问题ID: 944
+   问题: What is the longest substring of consecutive letters in alphabetical order in the first name of the spouse of the longest reigning British monarch?
+   正确答案: hi
+   React答案: The longest substring of consecutive letters in alphabetical order in the first name of the spouse of the longest reigning British monarch is "hil".
+   RAAgent答案: hil
+----------------------------------------------------------------------------------------------------
+
+208. 问题ID: 962
+   问题: The submission deadline is at 02 September 2023, 09:32, Anywhere on Earth (AoE). At what date and time is the deadline in the county in which Mark Dismore's birthplace is located?
+   正确答案: 2023-09-02 16:32
+   React答案: The submission deadline in the county where Mark Dismore's birthplace is located (Greenfield, Indiana, United States) is on 03 September 2023, 08:32, in the local time (America/Indiana/Indianapolis time zone).
+   RAAgent答案: 16:32 CDT on 02 September 2023
+----------------------------------------------------------------------------------------------------
+
+209. 问题ID: 972
+   问题: How many hours are there between the winter time zone of the county where Gerald T. Whelan's birthplace is located in and UTC?
+   正确答案: 6.0
+   React答案: There are 0 hours between the winter time zone of the county where Gerald T. Whelan's birthplace is located (East Sussex, United Kingdom) and UTC.
+   RAAgent答案: 6
+----------------------------------------------------------------------------------------------------
+
+210. 问题ID: 977
+   问题: The submission deadline is at 02 June 1981, 12:04, Anywhere on Earth (AoE). At what date and time is the deadline in the county in which Larkin I. Smith was born?
+   正确答案: 1981-06-02 19:04
+   React答案: The submission deadline in Pearl River County, Mississippi, where Larkin I. Smith was born, is on June 2, 1981, at 7:04 AM local time.
+   RAAgent答案: 02 June 1981, 19:04
+----------------------------------------------------------------------------------------------------
+
+211. 问题ID: 981
+   问题: What is the date one day before the date when the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump was born?
+   正确答案: 1949-03-31
+   React答案: The date one day before the birth date of Jason Miller, an American lawyer, lobbyist, and political consultant who was a senior member of Donald Trump's presidential campaign, is March 23, 1975.
+   RAAgent答案: 1949年3月31日
+----------------------------------------------------------------------------------------------------
+

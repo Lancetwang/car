@@ -1,0 +1,1479 @@
+[
+  {
+    "id": 2,
+    "question": "How many consonants are there in the last name of the person who directed and wrote the 2016 film featuring the voice of Townsend Coleman?",
+    "ground_truth": "6",
+    "react_answer": "Unable to determine the film due to an empty film database. Consequently, the director's last name and consonant count cannot be identified.",
+    "raagent_answer": "6"
+  },
+  {
+    "id": 4,
+    "question": "What is the closest palindrome number to the year the brother of this first round draft pick by the Washington Redskins was drafted?",
+    "ground_truth": "2002",
+    "react_answer": "The closest palindrome number to the year the brother of Robert Griffin III, a first-round draft pick by the Washington Redskins, was drafted is 2020.",
+    "raagent_answer": "2002"
+  },
+  {
+    "id": 6,
+    "question": "How many letters (exclude the first and last) are there in the first name of the director of a 2004 film where Kam Heskin plays Paige Morgan in?",
+    "ground_truth": "4",
+    "react_answer": "There are 8 letters (excluding the first and last) in the first name of the director of the 2004 film where Kam Heskin plays Paige Morgan.",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 7,
+    "question": "What is the alphabetical order of the letters in the first name of the role the actor who played Colonel Sherman T. Potter in \"M*A*S*H\" played in \"Kentucky Jones\"?",
+    "ground_truth": "delmos",
+    "react_answer": "The alphabetical order of the letters in the first name of the role (Smedley) played by Harry Morgan in \"Kentucky Jones\" is: D, E, E, L, M, S, Y.",
+    "raagent_answer": "delmos"
+  },
+  {
+    "id": 13,
+    "question": "What is the sum of the digits of the year the year of birth of a \"holistic health\" practitioner who invented an promoted Rejuvelac?",
+    "ground_truth": "19",
+    "react_answer": "The sum of the digits of the year of birth (1909) of Ann Wigmore, the holistic health practitioner who invented and promoted Rejuvelac, is 1 + 0 + 0 + 9 = 10.",
+    "raagent_answer": "19"
+  },
+  {
+    "id": 16,
+    "question": "What is the difference between the year of birth of the actor who appeared on Charlotte's Shorts and Weeds and the year 2024?",
+    "ground_truth": "58",
+    "react_answer": "The difference between the birth year of Gary Anthony Williams (1965) and the year 2024 is 59 years.",
+    "raagent_answer": "58"
+  },
+  {
+    "id": 21,
+    "question": "What the concatenation of the first and last digits of the birth year of The star of \"Lady in a Cage\"?",
+    "ground_truth": "16",
+    "react_answer": "17",
+    "raagent_answer": "16"
+  },
+  {
+    "id": 25,
+    "question": "What is the result of multiplying 4 by the reverse of the year of birth of the actress who created The Dogwoman telemovies?",
+    "ground_truth": "6764",
+    "react_answer": "The reverse of the year of birth (1967) of Judith Lucy, the creator of \"The Dogwoman\" telemovies, is 7691. Multiplying 4 by 7691 gives 30764. Therefore, the result is 30764.",
+    "raagent_answer": "6764"
+  },
+  {
+    "id": 37,
+    "question": "How many syllables are there in the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway?",
+    "ground_truth": "2",
+    "react_answer": "The first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway is \"Todd\", which has 1 syllable.",
+    "raagent_answer": "2"
+  },
+  {
+    "id": 39,
+    "question": "What is the cube of the sum of the digits of the year of birth of the actress who was starred in \"Streak\" with Rumer Willis?",
+    "ground_truth": "13824.0",
+    "react_answer": "12167",
+    "raagent_answer": "13824"
+  },
+  {
+    "id": 43,
+    "question": "How many days lay between the date when the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump was born and August 03, 2028?",
+    "ground_truth": "28979",
+    "react_answer": "There are 19,432 days between the birth date of Jason Miller, the American lawyer, lobbyist, and political consultant who was a senior member of Donald Trump's presidential campaign, and August 3, 2028.",
+    "raagent_answer": "28,979"
+  },
+  {
+    "id": 52,
+    "question": "What is the date one month before the birth date of the British author who wrote the novel on which \"Here We Go Round the Mulberry Bush\"?",
+    "ground_truth": "1935-12-07",
+    "react_answer": "The date one month before the birth date of Hunter Davies, the British author who wrote the novel on which \"Here We Go Round the Mulberry Bush\" is based, is December 27, 1935.",
+    "raagent_answer": "7 December 1935"
+  },
+  {
+    "id": 55,
+    "question": "What is the reverse order of the letters in the first name of the role the actor who played Colonel Sherman T. Potter in \"M*A*S*H\" played in \"Kentucky Jones\"?",
+    "ground_truth": "modles",
+    "react_answer": "zuB",
+    "raagent_answer": "modleS"
+  },
+  {
+    "id": 63,
+    "question": "What is the year before the year this division, where Cleveland Browns placed fourth in 2009, adopted its current name?",
+    "ground_truth": "2001",
+    "react_answer": "The year before the AFC North adopted its current name is 2001.",
+    "raagent_answer": "2001"
+  },
+  {
+    "id": 67,
+    "question": "What is the year before the birth year of the person who wrote and illustrated a Japanese manga series based on a 16 year old high school student Ichitaka Seto?",
+    "ground_truth": "1961",
+    "react_answer": "The year before the birth year of Yoshida Mitsuru, who wrote and illustrated the Japanese manga series \"Touch\" featuring the 16-year-old high school student Ichitaka Seto, is 1956.",
+    "raagent_answer": "1961"
+  },
+  {
+    "id": 69,
+    "question": "Which day of the week was the date of birth of the English inventor that developed the Richard Hornsby & Sons oil engine?",
+    "ground_truth": "Thursday",
+    "react_answer": "The English inventor Herbert Akroyd Stuart, who developed the Richard Hornsby & Sons oil engine, was born on a Saturday.",
+    "raagent_answer": "Thursday"
+  },
+  {
+    "id": 72,
+    "question": "How many additional letters does the first name of Alexander Flores have compared to the last name of the former member of Beatles married the starring actress of The Black Belly of the Tarantula ?",
+    "ground_truth": "4",
+    "react_answer": "There is no evidence that a former member of The Beatles was married to a starring actress of *The Black Belly of the Tarantula*. Therefore, the comparison cannot be made.",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 73,
+    "question": "What is the reverse order of the letters in the last name of the character portrayed by Anna Camp in the film centered on the fictional Barden University and The Bellas?",
+    "ground_truth": "nesop",
+    "react_answer": "The reverse order of the letters in the last name \"Posen\" is \"nesoP\".",
+    "raagent_answer": "nesoP"
+  },
+  {
+    "id": 80,
+    "question": "What is the date 9 days after the date when the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump was born?",
+    "ground_truth": "1949-04-10",
+    "react_answer": "The date 9 days after the birth of Jason Miller, an American lawyer, lobbyist, and political consultant who was a senior member of Donald Trump's presidential campaign, is July 2, 1975.",
+    "raagent_answer": "April 10, 1949"
+  },
+  {
+    "id": 84,
+    "question": "What is the date 3 days after the date of birth of the English inventor that developed the Richard Hornsby & Sons oil engine?",
+    "ground_truth": "1864-01-31",
+    "react_answer": "The date 3 days after the birth of Herbert Akroyd Stuart, the English inventor who developed the Richard Hornsby & Sons oil engine, is January 16, 1864.",
+    "raagent_answer": "31 January 1864"
+  },
+  {
+    "id": 87,
+    "question": "What is the date 9 weeks before the birth date of the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy?",
+    "ground_truth": "1978-08-05",
+    "react_answer": "The date 9 weeks before the birth date of Yuvraj Singh, the former Indian cricketer who made his ODI debut during the 2000 ICC KnockOut Trophy, is October 10, 1981.",
+    "raagent_answer": "5 August 1978"
+  },
+  {
+    "id": 91,
+    "question": "How many consonants are there in the first name of the former member of Beatles married the starring actress of The Black Belly of the Tarantula ?",
+    "ground_truth": "3",
+    "react_answer": "5",
+    "raagent_answer": "3"
+  },
+  {
+    "id": 95,
+    "question": "What is the date 7 weeks after the birthdate of of the plaintiff in the 1892 Barbed Wire Patent Case?",
+    "ground_truth": "1813-03-08",
+    "react_answer": "The date 7 weeks after the birthdate of Joseph Glidden, the plaintiff in the 1892 Barbed Wire Patent Case, is March 8, 1813.",
+    "raagent_answer": "March 8, 1813"
+  },
+  {
+    "id": 97,
+    "question": "What is the date 7 weeks before the date the comedy film directed by Kevin Tent and starring the Bulgarian-Canadian actress known for portraying the role of Mia Jones will be released on video on demand services?",
+    "ground_truth": "2017-08-07",
+    "react_answer": "The date 7 weeks before the video on demand release of the comedy film directed by Kevin Tent and starring Nina Dobrev, known for portraying Mia Jones, is September 27, 2023.",
+    "raagent_answer": "August 7, 2017"
+  },
+  {
+    "id": 98,
+    "question": "What is the last letter of the first name of the former member of Beatles married the starring actress of The Black Belly of the Tarantula ?",
+    "ground_truth": "o",
+    "react_answer": "The last letter of the first name of the former member of The Beatles who was married to the starring actress of *The Black Belly of the Tarantula* is **e**.",
+    "raagent_answer": "o"
+  },
+  {
+    "id": 100,
+    "question": "What is the date one year after the date when Charlie McDermott plays Axl Heck on a tv show that premiered in ?",
+    "ground_truth": "2010-09-30",
+    "react_answer": "The date one year after the premiere of the TV show where Charlie McDermott plays Axl Heck (\"The Middle\") is January 1, 2010. Note: The exact premiere date was assumed as January 1, 2009, since only the year (2009) was available.",
+    "raagent_answer": "September 30, 2010"
+  },
+  {
+    "id": 105,
+    "question": "What is the binary code of the last letter of the first name of the former member of Beatles married the starring actress of The Black Belly of the Tarantula ?",
+    "ground_truth": "1101111",
+    "react_answer": "There is no former member of The Beatles who was married to the starring actress of *The Black Belly of the Tarantula* (Giovanna Ralli). Therefore, the premise of the question is incorrect, and the requested binary code cannot be determined.",
+    "raagent_answer": "1101111"
+  },
+  {
+    "id": 108,
+    "question": "What is the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway?",
+    "ground_truth": "Adam",
+    "react_answer": "Todd",
+    "raagent_answer": "Adam"
+  },
+  {
+    "id": 111,
+    "question": "What is the binary code of the first letter of the last name of the psychologist who wrote about the disciple of the person known as the \"Wild Woman of Buttle\" in lowercase?",
+    "ground_truth": "1101011",
+    "react_answer": "The binary code of the first letter of the last name of the psychologist who wrote about the disciple of the person known as the \"Wild Woman of Buttle\" in lowercase is 01100100.",
+    "raagent_answer": "1101011"
+  },
+  {
+    "id": 113,
+    "question": "What is the square of the sum of the digits of the year until when Tefik Selim Mborja was a part of a party that held power in Albania?",
+    "ground_truth": "289.0",
+    "react_answer": "324",
+    "raagent_answer": "289"
+  },
+  {
+    "id": 117,
+    "question": "What is the year 7 years after the year when the American electronic music duo from Orlando, Florida that Angelspit toured the United States with was formed?",
+    "ground_truth": "2013",
+    "react_answer": "2007",
+    "raagent_answer": "2013"
+  },
+  {
+    "id": 118,
+    "question": "What is the date 9 months before the date when the Disney sitcom in which Genevieve Knight \"G\" Hannelius starred as Avery Jennings ended?",
+    "ground_truth": "2015-01-16",
+    "react_answer": "The date 9 months before the end of the Disney sitcom \"Dog with a Blog\", in which G. Hannelius starred as Avery Jennings, is December 12, 2014.",
+    "raagent_answer": "January 16, 2015"
+  },
+  {
+    "id": 126,
+    "question": "How many additional letters does the last name of Jodi Shepherd have compared to the last name of the role the actor who played Colonel Sherman T. Potter in \"M*A*S*H\" played in \"Kentucky Jones\"?",
+    "ground_truth": "1",
+    "react_answer": "The last name \"Shepherd\" has 8 additional letters compared to the last name of the character Harry Morgan played in \"Kentucky Jones\", as the character (Smedley) does not have a known last name.",
+    "raagent_answer": "1"
+  },
+  {
+    "id": 132,
+    "question": "What is the year of the birthdate of the director of an American short slasher film with French-speaking serial killers that was released on October 31, 2011?",
+    "ground_truth": "1986",
+    "react_answer": "The year of the birthdate of the director of the American short slasher film with French-speaking serial killers released on October 31, 2011, is 1974.",
+    "raagent_answer": "1986"
+  },
+  {
+    "id": 148,
+    "question": "How many times does the letter \"m\" appear in the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway?",
+    "ground_truth": "1",
+    "react_answer": "The letter \"m\" appears 0 times in the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway.",
+    "raagent_answer": "1"
+  },
+  {
+    "id": 156,
+    "question": "What is the date 10 days before the date of birth of the English inventor that developed the Richard Hornsby & Sons oil engine?",
+    "ground_truth": "1864-01-18",
+    "react_answer": "The date 10 days before the date of birth of Herbert Akroyd Stuart, the English inventor who developed the Richard Hornsby & Sons oil engine, is January 3, 1864.",
+    "raagent_answer": "18 January 1864"
+  },
+  {
+    "id": 157,
+    "question": "What the concatenation of the first and last digits of the form year of the British rock band which released the song \"Lost!\"?",
+    "ground_truth": "16",
+    "react_answer": "18",
+    "raagent_answer": "16"
+  },
+  {
+    "id": 180,
+    "question": "Which day of the week was when Richard De Clare, 6Th Earl Of Gloucester's mother died?",
+    "ground_truth": "Tuesday",
+    "react_answer": "Richard De Clare, 6th Earl of Gloucester's mother, Isabel Marshal, died on a Friday.",
+    "raagent_answer": "Tuesday"
+  },
+  {
+    "id": 184,
+    "question": "How many vowels are there in the first name of the stepmother of Sara Ali Khan?",
+    "ground_truth": "4",
+    "react_answer": "The first name of Sara Ali Khan's stepmother is \"Amrita\". It contains 3 vowels: 'A', 'i', and 'a'.",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 187,
+    "question": "What is the last name of the paternal grandfather of Chiang Hsiao-Wu?",
+    "ground_truth": "Kai-shek",
+    "react_answer": "The last name of the paternal grandfather of Chiang Hsiao-Wu is Chiang.",
+    "raagent_answer": "蒋"
+  },
+  {
+    "id": 189,
+    "question": "What is the last name of the paternal grandfather of Baha Al-Dawla?",
+    "ground_truth": "al-Dawla",
+    "react_answer": "The last name of the paternal grandfather of Baha Al-Dawla is Buyid.",
+    "raagent_answer": "al-Dawla"
+  },
+  {
+    "id": 194,
+    "question": "What is the date 3 months before the date of birth of Sir Henry St John-Mildmay, 4Th Baronet's father?",
+    "ground_truth": "1764-06-30",
+    "react_answer": "The date 3 months before the birth of Sir Henry St John-Mildmay, 4th Baronet's father is March 15, 1754.",
+    "raagent_answer": "30 June 1764"
+  },
+  {
+    "id": 199,
+    "question": "What is the closest palindrome number to when the publisher of Eye To The Telescope (Magazine) was founded?",
+    "ground_truth": "1991",
+    "react_answer": "The closest palindrome number to the founding year of the publisher of Eye To The Telescope (Magazine), which is 2014, is 2002.",
+    "raagent_answer": "1991"
+  },
+  {
+    "id": 200,
+    "question": "What is the sum of all the digits in the day, month and year of when Humphrey De Bohun, 2Nd Earl Of Hereford's father died?",
+    "ground_truth": "12",
+    "react_answer": "The sum of all the digits in the day, month, and year of when Humphrey De Bohun, 2nd Earl Of Hereford's father died is 21.",
+    "raagent_answer": "12"
+  },
+  {
+    "id": 213,
+    "question": "What is the ASCII code of the last letter of the first name of the spouse of the director of film The Invisible Menace?",
+    "ground_truth": "110",
+    "react_answer": "The last letter of the first name of the spouse of the director of \"The Invisible Menace\" is 'y', and its ASCII code is 121.",
+    "raagent_answer": "110"
+  },
+  {
+    "id": 218,
+    "question": "How many more vowels than consonants are there in the first name of the father of the composer of film Durval Discos?",
+    "ground_truth": "1",
+    "react_answer": "There are 2 fewer vowels than consonants in the first name of the father of the composer of the film \"Durval Discos.\" Therefore, the answer is -2.",
+    "raagent_answer": "无法确定。虽然已确认电影《Durval Discos》的作曲家是 Antonio Pinto，但其父亲的姓名无法通过现有工具获取，相关查询返回“Unknown”。由于缺少父亲的名字，无法计算其名字中元音与辅音的数量差异。"
+  },
+  {
+    "id": 222,
+    "question": "How many more vowels than consonants are there in the first name of the stepmother of Sara Ali Khan?",
+    "ground_truth": "1",
+    "react_answer": "There are 0 more vowels than consonants in the first name of the stepmother of Sara Ali Khan.",
+    "raagent_answer": "1"
+  },
+  {
+    "id": 248,
+    "question": "What is the date 7 weeks before the date of birth of Stephanie Von Hohenlohe's husband?",
+    "ground_truth": "1878-12-28",
+    "react_answer": "The date 7 weeks before the birth of Stephanie Von Hohenlohe's husband, Friedrich Franz von Hohenlohe-Waldenburg-Schillingsfürst, is May 16, 1856.",
+    "raagent_answer": "28 December 1878"
+  },
+  {
+    "id": 251,
+    "question": "How many times does the letter \"e\" appear in the first name of Edward Wingfield, 2Nd Viscount Powerscourt's paternal grandmother?",
+    "ground_truth": "2",
+    "react_answer": "The letter \"e\" appears 1 time in the first name of Edward Wingfield, 2nd Viscount Powerscourt's paternal grandmother.",
+    "raagent_answer": "2"
+  },
+  {
+    "id": 253,
+    "question": "How many consonants are there in the first name of Viacheslav I Of Kiev's maternal grandfather?",
+    "ground_truth": "4",
+    "react_answer": "There are 6 consonants in the first name of Viacheslav I of Kiev's maternal grandfather.\n\nAction: Finish\nFinal Answer: 6",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 254,
+    "question": "How many times does the letter \"u\" appear in the last name of Mehmed I's paternal grandmother?",
+    "ground_truth": "1",
+    "react_answer": "The letter \"u\" appears 0 times in the last name (or commonly used name) of Mehmed I's paternal grandmother, Nilüfer Hatun. While her name contains \"ü\", it does not contain the letter \"u\".",
+    "raagent_answer": "无法确定Mehmed I父系祖母的姓氏，因此无法计算字母'u'在其姓氏中出现的次数。现有工具和数据源均未提供关于Bayezid I母亲的任何家谱信息，导致问题无法解决。"
+  },
+  {
+    "id": 256,
+    "question": "How many consonants are there in the first name of the father of the director of film The Cup (1999 Film)?",
+    "ground_truth": "5",
+    "react_answer": "There are 3 consonants in the first name of the father of the director of \"The Cup\" (1999).",
+    "raagent_answer": "5"
+  },
+  {
+    "id": 259,
+    "question": "What is the difference between when the publisher of Eye To The Telescope (Magazine) was founded and the year 2024?",
+    "ground_truth": "46",
+    "react_answer": "The publisher of \"Eye to the Telescope\", the Science Fiction & Fantasy Poetry Association, was founded in 2011. The difference between 2011 and 2024 is 13 years.",
+    "raagent_answer": "46"
+  },
+  {
+    "id": 260,
+    "question": "What is the date one month after when Tatiana Tolstoy-Paus's husband died?",
+    "ground_truth": "1983-04-11",
+    "react_answer": "The date one month after Tatiana Tolstoy-Paus's husband died is September 27, 1973.",
+    "raagent_answer": "1983-04-11"
+  },
+  {
+    "id": 262,
+    "question": "How many additional letters does the first name of Alexandra Boyle have compared to the last name of the spouse of the director of film Fire-Eater (Film)?",
+    "ground_truth": "3",
+    "react_answer": "The first name \"Alexandra\" has 1 more letter than the last name \"Seppälä\" of the spouse of the director of the film \"Fire-Eater\".",
+    "raagent_answer": "3"
+  },
+  {
+    "id": 264,
+    "question": "What is the difference between when the publisher of The Rip Off Review Of Western Culture was founded and the year 2024?",
+    "ground_truth": "55",
+    "react_answer": "The publisher of *The Rip Off Review Of Western Culture*, Rip Off Press, was founded in 1971. The difference between 1971 and 2024 is 53 years.",
+    "raagent_answer": "55"
+  },
+  {
+    "id": 265,
+    "question": "What is the date one month after the date of death of Sissel Lange-Nielsen's husband?",
+    "ground_truth": "2014-05-18",
+    "react_answer": "The date one month after the death of Sissel Lange-Nielsen's husband, Trygve Lange-Nielsen, is September 15, 2014.",
+    "raagent_answer": "18 May 2014"
+  },
+  {
+    "id": 266,
+    "question": "What is the difference between when the publisher of American Scientist was founded and the year 2024?",
+    "ground_truth": "138",
+    "react_answer": "The publisher of American Scientist, Sigma Xi, The Scientific Research Honor Society, was founded in 1902. The difference between 1902 and 2024 is 122 years.",
+    "raagent_answer": "138"
+  },
+  {
+    "id": 271,
+    "question": "What is the last letter of the first name of William Paulet, 4Th Marquess Of Winchester's paternal grandmother?",
+    "ground_truth": "h",
+    "react_answer": "The last letter of the first name of William Paulet, 4th Marquess of Winchester's paternal grandmother (Lucy Somerset) is \"y\".",
+    "raagent_answer": "h"
+  },
+  {
+    "id": 275,
+    "question": "How many unique letters are there in the last name of Abaqa Khan's paternal grandmother?",
+    "ground_truth": "4",
+    "react_answer": "There are 9 unique letters in the last name (Khongirad) of Abaqa Khan's paternal grandmother.",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 278,
+    "question": "How many unique letters are there in the last name of the spouse of the director of film Hannele'S Journey To Heaven?",
+    "ground_truth": "5",
+    "react_answer": "There are 6 unique letters in the last name \"Nielsen\" of Asta Nielsen, the spouse of Urban Gad, the director of \"Hannele's Journey To Heaven\".",
+    "raagent_answer": "5"
+  },
+  {
+    "id": 296,
+    "question": "How many syllables are there in the last name of the father-in-law of Ove Aunli?",
+    "ground_truth": "2",
+    "react_answer": "The last name of Ove Aunli's father-in-law, Bjørn Arne Vik, is \"Vik,\" which has 1 syllable.",
+    "raagent_answer": "2"
+  },
+  {
+    "id": 300,
+    "question": "How many syllables are there in the last name of the paternal grandfather of Ollom Fotla?",
+    "ground_truth": "1",
+    "react_answer": "The last name of the paternal grandfather of Ollom Fotla, Árthach, has 2 syllables.",
+    "raagent_answer": "无法确定 Ollom Fotla 的父系祖父的姓氏，因为其身份在现有数据源中不可查。尽管已确认 Ollom Fotla 的父亲为 Sétna Airt，但关于 Sétna Airt 父亲的信息无法通过任何工具获取，导致无法继续推导。因此，无法计算其姓氏的音节数。"
+  },
+  {
+    "id": 303,
+    "question": "What is the alphabetical order of the letters in the first name of the father of the director of film A No-Hit No-Run Summer?",
+    "ground_truth": "filxé",
+    "react_answer": "The alphabetical order of the letters in the first name of the father of the director of \"A No-Hit No-Run Summer\" is A, E, J, N.",
+    "raagent_answer": "filxé"
+  },
+  {
+    "id": 304,
+    "question": "What is the alphabetical order of the letters in the first name of the paternal grandfather of Ahmose-Henutemipet?",
+    "ground_truth": "aeeehknnrst",
+    "react_answer": "The first name of the paternal grandfather of Ahmose-Henutemipet is \"Senakhtenre\". The letters in alphabetical order are: a, e, e, h, k, n, n, r, s, t, e. Removing duplicates and sorting: a, e, h, k, n, r, s, t. Final alphabetical order of unique letters: a, e, h, k, n, r, s, t.",
+    "raagent_answer": "aeeehknnrst"
+  },
+  {
+    "id": 307,
+    "question": "What is the combined length of the first name and last name of the father of the director of film Little Joe (Film)?",
+    "ground_truth": "13",
+    "react_answer": "The combined length of the first name and last name of the father of the director of the film \"Little Joe\" is 10.",
+    "raagent_answer": "13"
+  },
+  {
+    "id": 308,
+    "question": "What is the year of Prince Raphael Rainer Of Thurn And Taxis's mother's birthday?",
+    "ground_truth": "1870",
+    "react_answer": "The year of Prince Raphael Rainer of Thurn and Taxis's mother's birthday is 1958.",
+    "raagent_answer": "1870"
+  },
+  {
+    "id": 319,
+    "question": "How many unique letters are there in the first name of the father of the director of film American Woman (2018 Film)?",
+    "ground_truth": "6",
+    "react_answer": "There are 4 unique letters in the first name of the father of the director of the film \"American Woman\" (2018).",
+    "raagent_answer": "6"
+  },
+  {
+    "id": 324,
+    "question": "What is the month (in number) of the date of death of Fitzroy Somerset, 5Th Baron Raglan's father?",
+    "ground_truth": "9",
+    "react_answer": "8",
+    "raagent_answer": "9"
+  },
+  {
+    "id": 325,
+    "question": "What is the date 5 days after when Joseph-Édouard Perrault's father was born?",
+    "ground_truth": "1846-05-18",
+    "react_answer": "The date 5 days after Joseph-Édouard Perrault's father was born is January 17, 1836.",
+    "raagent_answer": "May 18, 1846"
+  },
+  {
+    "id": 330,
+    "question": "How many repeated letters are there in the last name of Mehmed I's paternal grandmother?",
+    "ground_truth": "0",
+    "react_answer": "There is 1 repeated letter in the last name \"Aydina\" of Mehmed I's paternal grandmother. The letter 'a' appears twice.",
+    "raagent_answer": "无法确定，因为历史记录中缺乏关于Mehmed I父系祖母姓名的可靠信息，导致无法分析其姓氏中的重复字母数量。"
+  },
+  {
+    "id": 334,
+    "question": "What is the binary code of the last letter of the first name of the father of the director of film The Cup (1999 Film) in lowercase?",
+    "ground_truth": "1111001",
+    "react_answer": "The binary code of the last letter of the first name of the father of the director of \"The Cup\" (1999) in lowercase is 01101111.",
+    "raagent_answer": "1111001"
+  },
+  {
+    "id": 343,
+    "question": "What is the date 10 years after Maria Of Austria, Duchess Of Jülich-Cleves-Berg's husband's birthday?",
+    "ground_truth": "1526-07-28",
+    "react_answer": "The date 10 years after Maria of Austria, Duchess of Jülich-Cleves-Berg's husband's birthday is July 28, 1526.",
+    "raagent_answer": "1526年7月28日"
+  },
+  {
+    "id": 347,
+    "question": "What is the date 6 years after when Augusta Marie Of Holstein-Gottorp's father died?",
+    "ground_truth": "1665-08-10",
+    "react_answer": "The date 6 years after the death of Augusta Marie of Holstein-Gottorp's father, Christian I, Duke of Holstein-Gottorp, is June 15, 1639.",
+    "raagent_answer": "1665-08-10"
+  },
+  {
+    "id": 349,
+    "question": "What is the last letter of the last name of Eva Chamberlain's maternal grandmother?",
+    "ground_truth": "t",
+    "react_answer": "The last letter of the last name of Eva Chamberlain's maternal grandmother is 'h'.",
+    "raagent_answer": "t"
+  },
+  {
+    "id": 352,
+    "question": "How many additional letters does the last name of Noah Patrick have compared to the first name of the father of the director of film Little Joe (Film)?",
+    "ground_truth": "1",
+    "react_answer": "The last name \"Patrick\" has 0 additional letters compared to the first name \"Wilhelm\" of the father of the director of the film \"Little Joe.\"",
+    "raagent_answer": "1"
+  },
+  {
+    "id": 363,
+    "question": "What is the ASCII code of the first letter of the last name of the mother of the director of film La Cage Aux Folles 3: The Wedding in lowercase?",
+    "ground_truth": "115",
+    "react_answer": "The ASCII code of the lowercase letter \"l\" is 108.",
+    "raagent_answer": "115"
+  },
+  {
+    "id": 364,
+    "question": "What is the date one week before when the director of film Is It Easy To Be Young died?",
+    "ground_truth": "1992-06-16",
+    "react_answer": "The date one week before the director of the film *Is It Easy To Be Young* (Juris Podnieks) died is June 17, 1992.",
+    "raagent_answer": "June 16, 1992"
+  },
+  {
+    "id": 365,
+    "question": "What is the binary code of the first letter of the first name of the father of the director of film A No-Hit No-Run Summer in lowercase?",
+    "ground_truth": "1100110",
+    "react_answer": "The binary code for the letter 'j' (ASCII value 106) is 1101010.",
+    "raagent_answer": "1100110"
+  },
+  {
+    "id": 369,
+    "question": "What is the ASCII code of the first letter of the last name of the paternal grandfather of Baha Al-Dawla in lowercase?",
+    "ground_truth": "97",
+    "react_answer": "100",
+    "raagent_answer": "97"
+  },
+  {
+    "id": 370,
+    "question": "What is the reverse order of the letters in the last name of the spouse of the director of film Hannele'S Journey To Heaven?",
+    "ground_truth": "neslein",
+    "react_answer": "rreK",
+    "raagent_answer": "neslein"
+  },
+  {
+    "id": 371,
+    "question": "How many fewer letters does the last name of Merle Beil have compared to the last name of the spouse of the director of film Hannele'S Journey To Heaven?",
+    "ground_truth": "3",
+    "react_answer": "The film \"Hannele's Journey To Heaven\" could not be identified in the database, even with flexible search methods. As a result, the director and their spouse cannot be determined, making it impossible to compare the length of the last names. The last name \"Beil\" has 4 letters. Without the spouse's last name, the difference in letter count cannot be calculated.",
+    "raagent_answer": "3"
+  },
+  {
+    "id": 376,
+    "question": "What is the binary code of the first letter of the first name of the father of the director of film Little Joe (Film) in lowercase?",
+    "ground_truth": "1110010",
+    "react_answer": "The binary code of the first letter of the first name of the father of the director of \"Little Joe\" in lowercase is 01110111.",
+    "raagent_answer": "1110010"
+  },
+  {
+    "id": 382,
+    "question": "What is the year 7 years after when the publisher of American Scientist was founded?",
+    "ground_truth": "1893",
+    "react_answer": "The year 7 years after when the publisher of American Scientist (Sigma Xi) was founded is 1893.",
+    "raagent_answer": "1893"
+  },
+  {
+    "id": 383,
+    "question": "What is the year 10 years after when the publisher of Hürriyet was founded?",
+    "ground_truth": "2007",
+    "react_answer": "The year 10 years after when the publisher of Hürriyet, Doğan Media, was founded is 2003.",
+    "raagent_answer": "2007"
+  },
+  {
+    "id": 386,
+    "question": "What is the year 10 years after when the publisher of The Miscellany News was founded?",
+    "ground_truth": "1871",
+    "react_answer": "The year 10 years after when the publisher of The Miscellany News was founded is 1871.",
+    "raagent_answer": "1871"
+  },
+  {
+    "id": 387,
+    "question": "How many letters (exclude the first and last) are there in the last name of the spouse of the director of film Hannele'S Journey To Heaven?",
+    "ground_truth": "5",
+    "react_answer": "There are 4 letters (excluding the first and last) in the last name of the spouse of the director of the film \"Hannele's Journey To Heaven\".",
+    "raagent_answer": "5"
+  },
+  {
+    "id": 395,
+    "question": "What is the ASCII code of the first letter of the first name of the spouse of the director of film The Belles Of St. Trinian'S in lowercase?",
+    "ground_truth": "98",
+    "react_answer": "The ASCII code of the first letter of the first name of the spouse of the director of \"The Belles of St. Trinian's\" in lowercase is 110.",
+    "raagent_answer": "98"
+  },
+  {
+    "id": 401,
+    "question": "What is the first letter of the last name of the spouse of the director of film Manamagan Thevai in lowercase?",
+    "ground_truth": "r",
+    "react_answer": "s",
+    "raagent_answer": "r"
+  },
+  {
+    "id": 403,
+    "question": "What is the year before when the publisher of Tribal College Journal was founded?",
+    "ground_truth": "1971",
+    "react_answer": "The year before when the publisher of Tribal College Journal was founded is 1972.",
+    "raagent_answer": "1971"
+  },
+  {
+    "id": 405,
+    "question": "What is the sum of the digits of the year when the publisher of Hürriyet Daily News was founded?",
+    "ground_truth": "26",
+    "react_answer": "The sum of the digits of the year when the publisher of Hürriyet Daily News was founded is 18.",
+    "raagent_answer": "26"
+  },
+  {
+    "id": 413,
+    "question": "How many fewer letters does the first name of Susan Cantrell have compared to the first name of the spouse of the director of film Manamagan Thevai?",
+    "ground_truth": "5",
+    "react_answer": "The first name of Susan Cantrell has 2 fewer letters than the first name of the spouse of the director of the film \"Manamagan Thevai\".",
+    "raagent_answer": "5"
+  },
+  {
+    "id": 415,
+    "question": "What is the result of multiplying 3 by the reverse of when the publisher of American Scientist was founded?",
+    "ground_truth": "20643",
+    "react_answer": "The result of multiplying 3 by the reverse of the founding year of Sigma Xi (1886 → 6681) is 3 × 6681 = 20043.",
+    "raagent_answer": "20643"
+  },
+  {
+    "id": 418,
+    "question": "What is the result of multiplying 2 by the reverse of when the publisher of National Contest Journal was founded?",
+    "ground_truth": "8382",
+    "react_answer": "The result of multiplying 2 by the reverse of when the publisher of National Contest Journal (American Mathematical Society, founded in 1888) was founded is 2 × 8881 = 17762.",
+    "raagent_answer": "8382"
+  },
+  {
+    "id": 425,
+    "question": "What is the result of multiplying 9 by the reverse of when the publisher of Tribal College Journal was founded?",
+    "ground_truth": "25119",
+    "react_answer": "The result of multiplying 9 by the reverse of the founding year (1984 → 4891) is 9 × 4891 = 44019.",
+    "raagent_answer": "25119"
+  },
+  {
+    "id": 428,
+    "question": "How many additional letters does the last name of Rick Norton have compared to the last name of Albert G. Simms's father-in-law?",
+    "ground_truth": "1",
+    "react_answer": "The last name of Rick Norton (\"Norton\") has 6 letters. The last name of Albert G. Simms's father-in-law (\"Newman\") also has 6 letters. Therefore, the difference is 0 additional letters.",
+    "raagent_answer": "1"
+  },
+  {
+    "id": 430,
+    "question": "What is the date 9 months after when Richard De Clare, 6Th Earl Of Gloucester's mother died?",
+    "ground_truth": "1240-10-17",
+    "react_answer": "The date 9 months after Richard De Clare, 6th Earl of Gloucester's mother (Maud de Lacy) died is January 12, 1290.",
+    "raagent_answer": "1240-10-17"
+  },
+  {
+    "id": 434,
+    "question": "What is the date one week before when Florentine Rost Van Tonningen's husband died?",
+    "ground_truth": "1945-05-30",
+    "react_answer": "The date one week before Florentine Rost Van Tonningen's husband died is May 1, 1945.",
+    "raagent_answer": "30 May 1945"
+  },
+  {
+    "id": 438,
+    "question": "How many hours are there between the winter time zone of where the director of film In The Bleak Midwinter (Film) graduated from and UTC?",
+    "ground_truth": "0.0",
+    "react_answer": "The winter time zone of where Jimmy Smallhorne, the director of *In the Bleak Midwinter*, graduated (New York University, USA) is UTC-5. Therefore, there are 5 hours between this time zone and UTC.",
+    "raagent_answer": "0"
+  },
+  {
+    "id": 447,
+    "question": "What is the sum of all the digits in the day, month and year of when the director of film Is It Easy To Be Young died?",
+    "ground_truth": "32",
+    "react_answer": "The sum of all the digits in the day, month, and year of when the director of the film \"Is It Easy To Be Young\" died is 33.",
+    "raagent_answer": "32"
+  },
+  {
+    "id": 450,
+    "question": "How many consonants are there in the first name of the paternal grandfather of Alexandre Berthier, 3Rd Prince Of Wagram?",
+    "ground_truth": "7",
+    "react_answer": "There are 2 consonants in the first name (\"Louis\") of the paternal grandfather of Alexandre Berthier, 3rd Prince of Wagram.",
+    "raagent_answer": "7"
+  },
+  {
+    "id": 454,
+    "question": "What is the date 7 years before when Paolo Ruspoli, 5Th Marquis Of Boadilla Del Monte's father died?",
+    "ground_truth": "1937-11-07",
+    "react_answer": "The date 7 years before Paolo Ruspoli, 5th Marquis of Boadilla del Monte's father died is July 14, 1956.",
+    "raagent_answer": "November 7, 1937"
+  },
+  {
+    "id": 457,
+    "question": "How many syllables are there in the last name of Yujiulü Doulun's paternal grandfather?",
+    "ground_truth": "3",
+    "react_answer": "The last name of Yujiulü Doulun's paternal grandfather, Yujiulü Wuti, is \"Yujiulü,\" which has 4 syllables.",
+    "raagent_answer": "3"
+  },
+  {
+    "id": 458,
+    "question": "How many syllables are there in the last name of the paternal grandfather of Euphemia Ii, Countess Of Ross?",
+    "ground_truth": "2",
+    "react_answer": "The last name of the paternal grandfather of Euphemia I, Countess of Ross, is \"Ross,\" which has 1 syllable.",
+    "raagent_answer": "2"
+  },
+  {
+    "id": 461,
+    "question": "What is the total number of letters in the first name of the role the actor who played Colonel Sherman T. Potter in \"M*A*S*H\" played in \"Kentucky Jones\"?",
+    "ground_truth": "6",
+    "react_answer": "The total number of letters in the first name of the role played by Harry Morgan in \"Kentucky Jones\" is 7.",
+    "raagent_answer": "6"
+  },
+  {
+    "id": 467,
+    "question": "What is the year 8 years after the year of birth of the actress who created The Dogwoman telemovies?",
+    "ground_truth": "1969",
+    "react_answer": "The year 8 years after the year of birth of the actress who created The Dogwoman telemovies is 1959.",
+    "raagent_answer": "1969"
+  },
+  {
+    "id": 468,
+    "question": "What is the sum of all the digits in the day, month and year of the date the comedy film directed by Kevin Tent and starring the Bulgarian-Canadian actress known for portraying the role of Mia Jones will be released on video on demand services?",
+    "ground_truth": "26",
+    "react_answer": "The sum of all the digits in the day, month, and year of the release date is 15.",
+    "raagent_answer": "26"
+  },
+  {
+    "id": 469,
+    "question": "What is the cube of the sum of the digits of the year Roy Rogers and his third wife starred in a film directed by Frank McDonald?",
+    "ground_truth": "6859.0",
+    "react_answer": "The cube of the sum of the digits of the year (1950) is 3375.",
+    "raagent_answer": "6859"
+  },
+  {
+    "id": 477,
+    "question": "What is the binary code of the first letter of the first name of the director of a 2004 film where Kam Heskin plays Paige Morgan in in lowercase?",
+    "ground_truth": "1101101",
+    "react_answer": "The binary code of the first letter (in lowercase) of the first name of the director is 1110011.",
+    "raagent_answer": "1101101"
+  },
+  {
+    "id": 478,
+    "question": "What is the combined length of the first name and last name of the director of a 1977 film which shares a name with The third solo album by David Gates of Bread ?",
+    "ground_truth": "11",
+    "react_answer": "The combined length of the first name and last name of the director of the 1977 film \"Goodbye Girl\", which shares a name with the third solo album by David Gates of Bread, is 13.",
+    "raagent_answer": "11"
+  },
+  {
+    "id": 480,
+    "question": "What is the result of substracting 3 from the reverse of the year Roy Rogers and his third wife starred in a film directed by Frank McDonald?",
+    "ground_truth": "5488",
+    "react_answer": "The result of subtracting 3 from the reverse of the year Roy Rogers and his third wife starred in a film directed by Frank McDonald is 588.",
+    "raagent_answer": "5488"
+  },
+  {
+    "id": 492,
+    "question": "What is the square of the sum of the digits of the birth year of the person who wrote and illustrated a Japanese manga series based on a 16 year old high school student Ichitaka Seto?",
+    "ground_truth": "324.0",
+    "react_answer": "The square of the sum of the digits of the birth year of Masami Tsuda, the writer and illustrator of the manga series featuring Ichitaka Seto, is 441.",
+    "raagent_answer": "324"
+  },
+  {
+    "id": 495,
+    "question": "How many syllables are there in the first name of the author of the play that was adapted into a film and featured the orchestral arrangement Suite from Henry V?",
+    "ground_truth": "2",
+    "react_answer": "The first name of the author of the play adapted into a film featuring the orchestral arrangement \"Suite from Henry V\" is \"William\", which has 3 syllables. (Note: Correction—“William” has two syllables: \"Will\" and \"iam\". Final count is 2.)\n\nWait: Actually, “William” is pronounced /ˈwɪl.jəm/ and consists of **3 syllables**: Wil-li-am.\n\nFinal Answer: The first name of the author of the play adapted into a film featuring the orchestral arrangement \"Suite from Henry V\" is \"William\", which has 3 syllables.",
+    "raagent_answer": "2"
+  },
+  {
+    "id": 501,
+    "question": "What is the year of the date the comedy film directed by Kevin Tent and starring the Bulgarian-Canadian actress known for portraying the role of Mia Jones will be released on video on demand services?",
+    "ground_truth": "2017",
+    "react_answer": "The comedy film directed by Kevin Tent and starring Nina Dobrev, the Bulgarian-Canadian actress known for portraying Mia Jones, will be released on video-on-demand services in the year 2024.",
+    "raagent_answer": "2017"
+  },
+  {
+    "id": 509,
+    "question": "What is the date one week before the birth date of the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy?",
+    "ground_truth": "1978-09-30",
+    "react_answer": "The date one week before the birth date of Yuvraj Singh, the former Indian cricketer who made his ODI debut during the 2000 ICC KnockOut Trophy, is December 5, 1981.",
+    "raagent_answer": "1978年9月30日"
+  },
+  {
+    "id": 514,
+    "question": "What is the first letter of the first name of the director of a 1977 film which shares a name with The third solo album by David Gates of Bread  in lowercase?",
+    "ground_truth": "h",
+    "react_answer": "d",
+    "raagent_answer": "无法确定。根据现有信息，David Gates 的第三张个人专辑是《Take Me Now》（1975），但没有记录显示1977年有同名电影。因此，无法找到符合条件的导演及其名字的首字母。"
+  },
+  {
+    "id": 515,
+    "question": "What is the product of the digits of the year the year of birth of the man who conducted the experiment Operation light house with Wernher von Braun?",
+    "ground_truth": "360",
+    "react_answer": "The product of the digits of the year of birth (1904) of Walter Dornberger, who conducted the experiment Operation Light House with Wernher von Braun, is 0 (since 1 × 9 × 0 × 4 = 0).",
+    "raagent_answer": "360"
+  },
+  {
+    "id": 529,
+    "question": "What is the date one month before the birthdate of the director of an American short slasher film with French-speaking serial killers that was released on October 31, 2011?",
+    "ground_truth": "1986-05-11",
+    "react_answer": "The date one month before the birthdate of the director of the specified film is June 15, 1968.",
+    "raagent_answer": "May 11, 1986"
+  },
+  {
+    "id": 531,
+    "question": "What is the date 6 weeks after the birth date of the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy?",
+    "ground_truth": "1978-11-18",
+    "react_answer": "The date 6 weeks after the birth date of Zaheer Khan, the former Indian cricketer who made his ODI debut during the 2000 ICC KnockOut Trophy, is November 18, 1978.",
+    "raagent_answer": "18 November 1978"
+  },
+  {
+    "id": 534,
+    "question": "What is the date one week after the birth date of the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy?",
+    "ground_truth": "1978-10-14",
+    "react_answer": "The date one week after the birth date of Yuvraj Singh, the former Indian cricketer who made his ODI debut during the 2000 ICC KnockOut Trophy, is December 19, 1981.",
+    "raagent_answer": "1978-10-14"
+  },
+  {
+    "id": 536,
+    "question": "What is the date 5 months before the birth date of the British author who wrote the novel on which \"Here We Go Round the Mulberry Bush\"?",
+    "ground_truth": "1935-08-07",
+    "react_answer": "The date 5 months before the birth date of Denis Potter, the British author who wrote the novel on which \"Here We Go Round the Mulberry Bush\" is based, is December 17, 1934.",
+    "raagent_answer": "1935-08-07"
+  },
+  {
+    "id": 539,
+    "question": "What is the date 6 years after the release date of U2 album song An Cat Dubh / Into the Heart?",
+    "ground_truth": "1986-10-20",
+    "react_answer": "The date 6 years after the release date of the U2 album containing the song \"An Cat Dubh / Into the Heart\" is October 20, 1986.",
+    "raagent_answer": "1986-10-20"
+  },
+  {
+    "id": 542,
+    "question": "What is the date 3 days after the birthdate of this American comedian, actress, and writer, who was a supporting cast remember in Brooklyn Nine-Nine as Gina?",
+    "ground_truth": "1978-02-23",
+    "react_answer": "The date 3 days after the birthdate of Chelsea Peretti, the American comedian, actress, and writer who played Gina in Brooklyn Nine-Nine, is February 23, 1978.",
+    "raagent_answer": "February 23, 1978"
+  },
+  {
+    "id": 549,
+    "question": "What is the sum of the (unique) prime factors of the year of birth of the actor who appeared on Charlotte's Shorts and Weeds?",
+    "ground_truth": "985",
+    "react_answer": "The sum of the unique prime factors of the birth year (1965) of Gary Anthony Williams, the actor who appeared in both \"Charlotte's Shorts\" and \"Weeds\", is 139.",
+    "raagent_answer": "985"
+  },
+  {
+    "id": 551,
+    "question": "What is the last letter of the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway?",
+    "ground_truth": "m",
+    "react_answer": "The last letter of the first name of the person who created the 2003 remake of the 1983 overhead view, vehicular combat game developed by Bally Midway is \"d\".",
+    "raagent_answer": "m"
+  },
+  {
+    "id": 553,
+    "question": "What is the sum of the (unique) prime factors of the year the brother of this first round draft pick by the Washington Redskins was drafted?",
+    "ground_truth": "2003",
+    "react_answer": "The sum of the unique prime factors of the year the brother of Robert Griffin III (a first-round draft pick by the Washington Redskins) was drafted is 1011.",
+    "raagent_answer": "2003"
+  },
+  {
+    "id": 557,
+    "question": "What is the difference between the birth year of the player who Charles Barkley changed his jersey number to #32 in honor of and the year 2024?",
+    "ground_truth": "65",
+    "react_answer": "The difference between the birth year of Wilt Chamberlain (1936), whom Charles Barkley honored by changing his jersey number to #32, and the year 2024 is 88 years.",
+    "raagent_answer": "65"
+  },
+  {
+    "id": 563,
+    "question": "What is the sum of all the digits in the day, month and year of the birth date of the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy?",
+    "ground_truth": "33",
+    "react_answer": "The sum of all the digits in the day, month, and year of Yuvraj Singh's birth date is 25.",
+    "raagent_answer": "33"
+  },
+  {
+    "id": 571,
+    "question": "What is the closest palindrome number to the year when the American electronic music duo from Orlando, Florida that Angelspit toured the United States with was formed?",
+    "ground_truth": "2002",
+    "react_answer": "The closest palindrome number to the formation year (2007) of Blood on the Dance Floor, the American electronic music duo from Orlando, Florida that Angelspit toured with, is 2010.",
+    "raagent_answer": "2002"
+  },
+  {
+    "id": 574,
+    "question": "What is the date one day after the date of birth of the director of film Night Of The Twelve?",
+    "ground_truth": "1895-10-02",
+    "react_answer": "The date one day after the date of birth of the director of the film \"Night Of The Twelve\" is August 24, 1907.",
+    "raagent_answer": "2 October 1895"
+  },
+  {
+    "id": 578,
+    "question": "Which day of the week was the date of death of Catherine Of Guelders's father?",
+    "ground_truth": "Sunday",
+    "react_answer": "The date of death of Catherine of Guelders's father, Arnold, Duke of Guelders, was on a Thursday.",
+    "raagent_answer": "Sunday"
+  },
+  {
+    "id": 581,
+    "question": "What is the closest palindrome number to the year of the date of death of Princess Béatrice Of Bourbon-Two Sicilies's father?",
+    "ground_truth": "2002",
+    "react_answer": "The closest palindrome number to the year of death (1960) of Princess Béatrice of Bourbon-Two Sicilies's father, Prince Ferdinand Pius, Duke of Castro, is 1991.",
+    "raagent_answer": "2002"
+  },
+  {
+    "id": 591,
+    "question": "What is the combined length of the first name and last name of the father of the director of film The Cup (1999 Film)?",
+    "ground_truth": "12",
+    "react_answer": "The combined length of the first name and last name of the father of the director of \"The Cup\" (1999) is 13.",
+    "raagent_answer": "12"
+  },
+  {
+    "id": 594,
+    "question": "What is the sum of all the digits in the day, month and year of the date when Selena Quintanilla-Pérez's assistant and head of her fan club will be eligible for parole?",
+    "ground_truth": "15",
+    "react_answer": "The sum of all the digits in the day, month, and year of the parole eligibility date (March 29, 2025) is 23.",
+    "raagent_answer": "最终答案"
+  },
+  {
+    "id": 595,
+    "question": "What is the combined length of the first name and last name of the spouse of the director of film Bratuku Teruvu?",
+    "ground_truth": "21",
+    "react_answer": "The combined length of the first name and last name of the spouse of the director of the film \"Bratuku Teruvu\" is 15.",
+    "raagent_answer": "21"
+  },
+  {
+    "id": 599,
+    "question": "How many letters (exclude the first and last) are there in the first name of the father of the director of film Little Joe (Film)?",
+    "ground_truth": "4",
+    "react_answer": "There are 2 letters in the first name of the father of the director of the film \"Little Joe,\" excluding the first and last letters.",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 600,
+    "question": "What is the concatenation of the first letter of the first name and the last letter of the last name of William Paulet, 4Th Marquess Of Winchester's paternal grandmother in lowercase?",
+    "ground_truth": "ey",
+    "react_answer": "ll",
+    "raagent_answer": "ey"
+  },
+  {
+    "id": 609,
+    "question": "How many letters (exclude the first and last) are there in the first name of the spouse of the director of film The Invisible Menace?",
+    "ground_truth": "5",
+    "react_answer": "There are 3 letters in the first name of the spouse of the director of \"The Invisible Menace\", excluding the first and last letters.",
+    "raagent_answer": "5"
+  },
+  {
+    "id": 610,
+    "question": "What is the date one week after the date of birth of Dolores Gangotena's husband?",
+    "ground_truth": "1912-02-07",
+    "react_answer": "The date one week after the date of birth of Dolores Gangotena's husband, Diego Salcedo, is March 21, 1952.",
+    "raagent_answer": "February 7, 1912"
+  },
+  {
+    "id": 612,
+    "question": "What is the date one week after the date of death of Eric I, Duke Of Schleswig's father?",
+    "ground_truth": "1252-07-06",
+    "react_answer": "The date one week after the death of Eric I, Duke of Schleswig's father (King Eric V of Denmark) is November 29, 1286.",
+    "raagent_answer": "6 July 1252"
+  },
+  {
+    "id": 615,
+    "question": "What is the year of when John Hodgetts-Foley's father was born?",
+    "ground_truth": "1747",
+    "react_answer": "The year John Hodgetts-Foley's father was born is 1897.",
+    "raagent_answer": "1747"
+  },
+  {
+    "id": 634,
+    "question": "How many vowels are there in the last name of Abu Mansur Fulad Sutun's paternal grandfather?",
+    "ground_truth": "3",
+    "react_answer": "There are 3 vowels in the last name \"al-Dawla\" of Abu Mansur Fulad Sutun's paternal grandfather.",
+    "raagent_answer": "3"
+  },
+  {
+    "id": 636,
+    "question": "What is the date 9 years after the date of death of Catherine Of Guelders's father?",
+    "ground_truth": "1482-02-23",
+    "react_answer": "The date 9 years after the death of Catherine of Guelders's father, Arnold, Duke of Guelders, is 23 February 1482.",
+    "raagent_answer": "由于系统工具无法成功检索 Arnold, Duke of Guelders 的死亡日期，尽管已确认其身份，仍无法完全基于可用工具完成计算。但根据外部可靠历史资料，Arnold 死于1473年2月23日，因此9年后为1482年2月23日。最终答案为：1482年2月23日。"
+  },
+  {
+    "id": 639,
+    "question": "How many unique letters are there in the last name of the spouse of the director of film Bratuku Teruvu?",
+    "ground_truth": "8",
+    "react_answer": "The spouse of the director of \"Bratuku Teruvu\" is Annapurna. Assuming \"Annapurna\" is the only name available, the unique letters in this name are A, N, P, U, R — totaling 5 unique letters. Therefore, the number of unique letters in the last name (or full name) is 5.",
+    "raagent_answer": "8"
+  },
+  {
+    "id": 645,
+    "question": "What is the date 3 days after the date of death of the director of film Nallavan Vazhvan?",
+    "ground_truth": "1992-09-06",
+    "react_answer": "The date 3 days after the death of A. Bhimsingh, the director of the film *Nallavan Vazhvan*, is December 26, 1978.",
+    "raagent_answer": "6 September 1992"
+  },
+  {
+    "id": 649,
+    "question": "What is the date one month after when Humphrey De Bohun, 2Nd Earl Of Hereford's father died?",
+    "ground_truth": "1220-07-01",
+    "react_answer": "One month after the death of Humphrey De Bohun, 2nd Earl of Hereford's father, Humphrey De Bohun, 1st Earl of Hereford, is December 27, 1275.",
+    "raagent_answer": "June 17, 1220"
+  },
+  {
+    "id": 661,
+    "question": "What is the ASCII code of the first letter of the first name of the father of the director of film A No-Hit No-Run Summer in lowercase?",
+    "ground_truth": "102",
+    "react_answer": "106",
+    "raagent_answer": "102"
+  },
+  {
+    "id": 675,
+    "question": "What is the date 8 days before when Joseph-Édouard Perrault's father was born?",
+    "ground_truth": "1846-05-05",
+    "react_answer": "The date 8 days before Joseph-Édouard Perrault's father was born is March 7, 1834.",
+    "raagent_answer": "May 5, 1846"
+  },
+  {
+    "id": 680,
+    "question": "What is the binary code of the first letter of the last name of the mother of the director of film Operation Gold Ingot in lowercase?",
+    "ground_truth": "1110011",
+    "react_answer": "The binary code of the first letter of the last name of the mother of the director of \"Operation Gold Ingot\" is 01110010.",
+    "raagent_answer": "1110011"
+  },
+  {
+    "id": 684,
+    "question": "What is the first letter of the last name of Abu Mansur Fulad Sutun's paternal grandfather in lowercase?",
+    "ground_truth": "a",
+    "react_answer": "s",
+    "raagent_answer": "a"
+  },
+  {
+    "id": 686,
+    "question": "What is the last letter of the first name of Albert G. Simms's father-in-law?",
+    "ground_truth": "k",
+    "react_answer": "The last letter of the first name of Albert G. Simms's father-in-law is \"s\".",
+    "raagent_answer": "k"
+  },
+  {
+    "id": 687,
+    "question": "What is the first letter of the last name of the mother of the director of film La Cage Aux Folles 3: The Wedding in lowercase?",
+    "ground_truth": "s",
+    "react_answer": "l",
+    "raagent_answer": "s"
+  },
+  {
+    "id": 698,
+    "question": "What is the first letter of the first name of the father of the director of film Little Joe (Film) in lowercase?",
+    "ground_truth": "r",
+    "react_answer": "w",
+    "raagent_answer": "r"
+  },
+  {
+    "id": 699,
+    "question": "How many consonants are there in the first name of Charles Monck, 3Rd Viscount Monck's paternal grandfather?",
+    "ground_truth": "4",
+    "react_answer": "There are 5 consonants in the first name of Charles Monck, 3rd Viscount Monck's paternal grandfather.",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 700,
+    "question": "What is the first letter of the first name of the father of the composer of film Durval Discos in lowercase?",
+    "ground_truth": "a",
+    "react_answer": "e",
+    "raagent_answer": "a"
+  },
+  {
+    "id": 715,
+    "question": "What is the date one year after the date of birth of the director of Kon-Tiki (1950 Film)?",
+    "ground_truth": "1915-10-06",
+    "react_answer": "The date one year after the date of birth of the director of Kon-Tiki (1950 film), Thor Heyerdahl, is October 6, 1915.",
+    "raagent_answer": "October 6, 1915"
+  },
+  {
+    "id": 716,
+    "question": "How many unique letters are there in the first name of the mother of the director of film Cop Or Hood?",
+    "ground_truth": "4",
+    "react_answer": "There are 5 unique letters in the first name of the mother of the director of the film \"Cop Or Hood.\"",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 724,
+    "question": "What is the binary code of the last letter of the first name of William Paulet, 4Th Marquess Of Winchester's paternal grandmother in lowercase?",
+    "ground_truth": "1101000",
+    "react_answer": "The last letter of the first name of William Paulet, 4th Marquess of Winchester's paternal grandmother (Lucy Somerset) is 'y'. The ASCII binary code for 'y' is 01111001.",
+    "raagent_answer": "01101000"
+  },
+  {
+    "id": 732,
+    "question": "How many times does the letter \"f\" appear in the first name of the father of the director of film A No-Hit No-Run Summer?",
+    "ground_truth": "1",
+    "react_answer": "The letter \"f\" appears 0 times in the first name \"Denis\".",
+    "raagent_answer": "1"
+  },
+  {
+    "id": 734,
+    "question": "What is the date 3 weeks before when the director of film Is It Easy To Be Young died?",
+    "ground_truth": "1992-06-02",
+    "react_answer": "The date 3 weeks before when the director of the film \"Is It Easy To Be Young\" died is March 25, 2023.",
+    "raagent_answer": "June 2, 1992"
+  },
+  {
+    "id": 737,
+    "question": "How many vowels are there in the first name of the father of the director of film American Woman (2018 Film)?",
+    "ground_truth": "2",
+    "react_answer": "There is 1 vowel in the first name of the father of the director of the film *American Woman* (2018).",
+    "raagent_answer": "2"
+  },
+  {
+    "id": 739,
+    "question": "What is the total number of letters in the last name of the paternal grandfather of Euphemia Ii, Countess Of Ross?",
+    "ground_truth": "6",
+    "react_answer": "The total number of letters in the last name of the paternal grandfather of Euphemia II, Countess of Ross, is 4.",
+    "raagent_answer": "6"
+  },
+  {
+    "id": 749,
+    "question": "What is the concatenation of the first letters of the first name and last name of the father of the director of film American Woman (2018 Film) in lowercase?",
+    "ground_truth": "rs",
+    "react_answer": "ts",
+    "raagent_answer": "rs"
+  },
+  {
+    "id": 753,
+    "question": "What is the binary code of the first letter of the first name of the paternal grandfather of Máel Ruanaid Mac Donnchada Midi in lowercase?",
+    "ground_truth": "1100100",
+    "react_answer": "The binary code of the first letter of the first name of the paternal grandfather of Máel Ruanaid Mac Donnchada Midi in lowercase is 1101101.",
+    "raagent_answer": "无法通过系统工具完全确定 Máel Ruanaid Mac Donnchada Midi 的父系祖父姓名，因为所有尝试查询其祖父（即 Donnchad Midi 的父亲）的任务均失败，原因可能是工具初始化失败、数据库缺失或查询解析问题。然而，基于外部历史谱系资料，Donnchad Midi 的父亲为 Domnall Midi，因此其祖父的名字首字母为 'D'，小写后为 'd'，对应的 ASCII 二进制代码为 1100100。但由于该信息未通过指定工具成功验证，答案存在不确定性。若仅依据可验证步骤，则祖父姓名未知，无法生成二进制码。"
+  },
+  {
+    "id": 757,
+    "question": "How many syllables are there in the first name of William Paulet, 4Th Marquess Of Winchester's paternal grandmother?",
+    "ground_truth": "4",
+    "react_answer": "The first name of William Paulet, 4th Marquess of Winchester's paternal grandmother is \"Lucy\", which has 2 syllables.",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 764,
+    "question": "What is the sum of the (unique) prime factors of when the publisher of American Scientist was founded?",
+    "ground_truth": "66",
+    "react_answer": "The sum of the unique prime factors of the year the publisher of American Scientist was founded is 1913.",
+    "raagent_answer": "66"
+  },
+  {
+    "id": 766,
+    "question": "What the concatenation of the second and third digits of when the publisher of National Contest Journal was founded?",
+    "ground_truth": "91",
+    "react_answer": "11",
+    "raagent_answer": "91"
+  },
+  {
+    "id": 769,
+    "question": "What is the closest palindrome number to the year of the date of death of the composer of film Oomana Thinkal?",
+    "ground_truth": "1991",
+    "react_answer": "The closest palindrome number to the year of the date of death of the composer of the film \"Oomana Thinkal\" (M. B. Sreenivasan, who died in 2005) is 2002.",
+    "raagent_answer": "1991"
+  },
+  {
+    "id": 771,
+    "question": "What is the closest palindrome number to the year of Octavius Vernon Harcourt's father's birthday?",
+    "ground_truth": "1771",
+    "react_answer": "Unable to determine the closest palindrome number to the year of Octavius Vernon Harcourt's father's birthday due to insufficient genealogical records.",
+    "raagent_answer": "1771"
+  },
+  {
+    "id": 778,
+    "question": "Which day of the week was the date of death of Carlo I Cybo-Malaspina's father?",
+    "ground_truth": "Thursday",
+    "react_answer": "The date of death of Carlo I Cybo-Malaspina's father, Alderano Cybo-Malaspina, was on a Tuesday (27 March 1690).",
+    "raagent_answer": "Thursday"
+  },
+  {
+    "id": 798,
+    "question": "What is the month (in number) of when Charles Somers-Cocks, 3Rd Earl Somers's father died?",
+    "ground_truth": "10",
+    "react_answer": "11",
+    "raagent_answer": "10"
+  },
+  {
+    "id": 800,
+    "question": "How many times does the letter \"n\" appear in the first name of the father of the director of film Snake In The Eagle'S Shadow?",
+    "ground_truth": "1",
+    "react_answer": "The letter \"n\" appears 2 times in the first name \"Yung\" of Liu Yung-Ching, the father of the director of the film \"Snake In The Eagle's Shadow\".",
+    "raagent_answer": "1"
+  },
+  {
+    "id": 801,
+    "question": "What is the day of the date of birth of Dolores Gangotena's husband?",
+    "ground_truth": "31",
+    "react_answer": "The day of the date of birth of Dolores Gangotena's husband, Jaime Roldós, is Thursday.",
+    "raagent_answer": "31"
+  },
+  {
+    "id": 803,
+    "question": "How many hours are there between the winter time zone of the place of birth of the director of film Frozen Assets (Film) and UTC?",
+    "ground_truth": "0.0",
+    "react_answer": "The winter time zone of the place of birth of the director of \"Frozen Assets\" (Sydney, Australia) is 10 hours ahead of UTC.",
+    "raagent_answer": "无法完成完整计算，因为尽管已成功确认电影《Frozen Assets》的导演为 Graeme Campbell，但所有尝试获取其出生地的自动化方法均失败（网络请求被拒绝或工具受限）。由于缺少出生地信息，无法确定其冬季所在时区，进而无法计算与 UTC 的时间差。若基于外部公开资料，Graeme Campbell 出生于英国格拉斯哥，该地冬季时区为 UTC+0，时间差为 0 小时，但此信息未通过系统验证。最终答案无法可靠生成。"
+  },
+  {
+    "id": 804,
+    "question": "How many days lay between the date of birth of Catherine Of Foix, Countess Of Candale's mother and Thursday, 25 July 1996?",
+    "ground_truth": "208362",
+    "react_answer": "There were 208,347 days between the date of birth of Catherine of Foix, Countess of Candale's mother (Eleanor of Navarre, born 22 February 1426) and Thursday, 25 July 1996.",
+    "raagent_answer": "208,362"
+  },
+  {
+    "id": 807,
+    "question": "How many days lay between the date of death of the director of film Break The News and 01 Sep 2025?",
+    "ground_truth": "16241",
+    "react_answer": "There are 16,248 days between the date of death of René Clair, the director of \"Break The News,\" and September 1, 2025.",
+    "raagent_answer": "16241"
+  },
+  {
+    "id": 814,
+    "question": "What is the date one week after the date of birth of the director of film Liberated Hands?",
+    "ground_truth": "1895-10-08",
+    "react_answer": "The date one week after the birthdate of Hans Schweikart, the director of \"Liberated Hands,\" is July 3, 1895.",
+    "raagent_answer": "8 October 1895"
+  },
+  {
+    "id": 819,
+    "question": "What is the date one week before the date of death of the composer of film Oomana Thinkal?",
+    "ground_truth": "1988-03-02",
+    "react_answer": "The date one week before the death of M. B. Sreenivasan, the composer of the film \"Oomana Thinkal,\" is June 11, 2005.",
+    "raagent_answer": "2 March 1988"
+  },
+  {
+    "id": 826,
+    "question": "What is the date one day after the date of death of the director of film Nallavan Vazhvan?",
+    "ground_truth": "1992-09-04",
+    "react_answer": "The provided tools do not allow retrieval of the date of death of the director of \"Nallavan Vazhvan,\" Palaniyaandi Neelakantan. Therefore, it is not possible to calculate the date one day after his death using the available functionality.",
+    "raagent_answer": "4 September 1992"
+  },
+  {
+    "id": 830,
+    "question": "What is the month (in number) of when Philip III Of Namur's father died?",
+    "ground_truth": "1",
+    "react_answer": "12",
+    "raagent_answer": "1"
+  },
+  {
+    "id": 834,
+    "question": "How many unique letters are there in the place where the author of Hannibal and Scipio was educated?",
+    "ground_truth": "8",
+    "react_answer": "There are 13 unique letters in the name of the institution where the author of \"Hannibal and Scipio\" was educated.",
+    "raagent_answer": "8"
+  },
+  {
+    "id": 836,
+    "question": "How many repeated letters are there in the first name of the paternal grandfather of Diya Al-Dawla?",
+    "ground_truth": "0",
+    "react_answer": "The genealogical records for Diya Al-Dawla are not available in the current database, making it impossible to identify the paternal grandfather or analyze repeated letters in his first name.",
+    "raagent_answer": "无法确定 Diya Al-Dawla 的父系祖父的第一名字，因为所有尝试获取其具体姓名的任务均失败，系统仅返回模拟确认信息而无实际姓名数据。因此，无法计算其名字中重复字母的数量。"
+  },
+  {
+    "id": 839,
+    "question": "What is the name of the place where the author of Hannibal and Scipio was educated, without spaces?",
+    "ground_truth": "ExeterCollege",
+    "react_answer": "UniversityofOxford",
+    "raagent_answer": "ExeterCollege"
+  },
+  {
+    "id": 842,
+    "question": "How many letters (exclude the first and last) are there in the first name of the paternal grandfather of Diya Al-Dawla?",
+    "ground_truth": "2",
+    "react_answer": "There are 3 letters (excluding the first and last) in the first name of the paternal grandfather of Diya Al-Dawla.",
+    "raagent_answer": "2"
+  },
+  {
+    "id": 844,
+    "question": "What is the last vowel in the place where the author of Hannibal and Scipio was educated?",
+    "ground_truth": "e",
+    "react_answer": "The last vowel in the place where the author of Hannibal and Scipio was educated is 'u'.",
+    "raagent_answer": "e"
+  },
+  {
+    "id": 847,
+    "question": "What are the initials of the name of the place where the author of Hannibal and Scipio was educated?",
+    "ground_truth": "EC",
+    "react_answer": "WP",
+    "raagent_answer": "C"
+  },
+  {
+    "id": 851,
+    "question": "How many times does the letter 'r' appear in the place where the author of Hannibal and Scipio was educated?",
+    "ground_truth": "1",
+    "react_answer": "The letter 'r' appears 4 times in \"Trinity College, Oxford.\" (T-r-i-n-i-t-y C-o-l-l-e-g-e-, O-x-f-o-r-d) — counting both 'r's in \"Trinity\" and one each in \"College\" and \"Oxford.\")",
+    "raagent_answer": "1"
+  },
+  {
+    "id": 862,
+    "question": "What is the last vowel in the name of the university attended by the author of Elizabeth and After?",
+    "ground_truth": "o",
+    "react_answer": "The last vowel in \"St. Francis Xavier University\" is 'i'.",
+    "raagent_answer": "o"
+  },
+  {
+    "id": 864,
+    "question": "How many different letters are used in the name of the university attended by the author of Elizabeth and After?",
+    "ground_truth": "11",
+    "react_answer": "The name \"University of Pennsylvania\" uses 13 different letters.",
+    "raagent_answer": "11"
+  },
+  {
+    "id": 865,
+    "question": "What is the concatenation of the first letters of the first name and last name of the child of Caroline LeRoy's spouse in lowercase?",
+    "ground_truth": "fw",
+    "react_answer": "dw",
+    "raagent_answer": "fw"
+  },
+  {
+    "id": 875,
+    "question": "How many consonants are there in the first name of the founder of the political party of Dimuthu Bandara Abayakoon?",
+    "ground_truth": "3",
+    "react_answer": "There are 4 consonants in the first name of the founder of the political party of Dimuthu Bandara Abayakoon.",
+    "raagent_answer": "3"
+  },
+  {
+    "id": 878,
+    "question": "How many repeated letters are there in the last name of the father of Empress Wang's husband?",
+    "ground_truth": "1",
+    "react_answer": "There are 0 repeated letters in the last name of the father of Empress Wang's husband.",
+    "raagent_answer": "0"
+  },
+  {
+    "id": 884,
+    "question": "How many distinct two-letter combinations exist in the first name of the spouse of the creator of Ruby Loftus Screwing a Breech Ring?",
+    "ground_truth": "15",
+    "react_answer": "There are 5 distinct two-letter combinations in the first name \"Harold\" of the spouse of the creator of \"Ruby Loftus Screwing a Breech Ring.\"",
+    "raagent_answer": "15"
+  },
+  {
+    "id": 887,
+    "question": "How many unique letters are there in the last name of the child of the cast member of Ice Bound: A Woman's Survival at the South Pole?",
+    "ground_truth": "5",
+    "react_answer": "The last name of Susan Sarandon is \"Sarandon\". The unique letters in \"Sarandon\" are S, A, R, N, D, O — totaling 6 unique letters. Therefore, the answer is 6.",
+    "raagent_answer": "5"
+  },
+  {
+    "id": 892,
+    "question": "What is the ASCII code of the first letter of the last name of the child of the cast member of Ice Bound: A Woman's Survival at the South Pole in lowercase?",
+    "ground_truth": "97",
+    "react_answer": "The requested information cannot be retrieved because the movie \"Ice Bound: A Woman's Survival at the South Pole\" was not found in the database, and no cast members could be identified. As a result, it is not possible to determine the ASCII code of the first letter of the last name of the child of a cast member.",
+    "raagent_answer": "97"
+  },
+  {
+    "id": 897,
+    "question": "What is the ASCII code of the last letter of the last name of the paternal grandfather of Alice Clere?",
+    "ground_truth": "110",
+    "react_answer": "The last letter of the last name of Alice Clere's paternal grandfather (Thomas Clere) is 'e'. The ASCII code of 'e' is 101.",
+    "raagent_answer": "110"
+  },
+  {
+    "id": 898,
+    "question": "How many consonants are there in the last name of the paternal grandfather of Alice Clere?",
+    "ground_truth": "4",
+    "react_answer": "There are 3 consonants in the last name \"Clere\" of Alice Clere's paternal grandfather, Sir John Clere.",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 905,
+    "question": "What is the alphabetical order of the letters in the first name of Frances Freeling Broderip's sibling?",
+    "ground_truth": "mot",
+    "react_answer": "The alphabetical order of the letters in the first name of Frances Freeling Broderip's sibling (Horace) is: A, C, E, H, O, R.",
+    "raagent_answer": "mot"
+  },
+  {
+    "id": 906,
+    "question": "How many additional letters does the first name of Lori Lyons have compared to the first name of Frances Freeling Broderip's sibling?",
+    "ground_truth": "1",
+    "react_answer": "The first name of Lori Lyons (\"Lori\") has 4 letters, while the first name of Frances Freeling Broderip's sibling (\"Thomas\") has 6 letters. Therefore, the first name of Lori Lyons has 2 fewer letters than the first name of Frances Freeling Broderip's sibling. So, the answer is -2 (or 2 fewer).",
+    "raagent_answer": "1"
+  },
+  {
+    "id": 908,
+    "question": "What is the concatenation of the last letters of the first name and last name of the spouse of the actor from Terminator?",
+    "ground_truth": "ar",
+    "react_answer": "nl",
+    "raagent_answer": "ar"
+  },
+  {
+    "id": 910,
+    "question": "How many letters (exclude the first and last) are there in the last name of the paternal grandfather of Alice Clere?",
+    "ground_truth": "4",
+    "react_answer": "The last name of Alice Clere's paternal grandfather is \"Clere\", which has 5 letters. Excluding the first and last letters, there are 3 letters. Therefore, the answer is 3.",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 917,
+    "question": "What is the first letter of the first name of the child of the person who sponsored the resolution to reopen trade with Vietnam, along with Kerry in lowercase?",
+    "ground_truth": "m",
+    "react_answer": "Mkerry",
+    "raagent_answer": "m"
+  },
+  {
+    "id": 924,
+    "question": "How many syllables are there in the first name of the child of the person who sponsored the resolution to reopen trade with Vietnam, along with Kerry?",
+    "ground_truth": "2",
+    "react_answer": "The first names of John McCain's children and their syllable counts are: Douglas (2 syllables), Andrew (2 syllables), Sidney (3 syllables), and James (1 syllable). Therefore, depending on which child is referred to, the number of syllables ranges from 1 to 3.",
+    "raagent_answer": "2"
+  },
+  {
+    "id": 933,
+    "question": "How many repeated letters are there in the first name of the child of the person who sponsored the resolution to reopen trade with Vietnam, along with Kerry?",
+    "ground_truth": "0",
+    "react_answer": "1",
+    "raagent_answer": "0"
+  },
+  {
+    "id": 936,
+    "question": "How many repeated letters are there in the last name of the father of Nim's actress in Return to Nim's Island?",
+    "ground_truth": "1",
+    "react_answer": "There are 0 repeated letters in the last name of the father of Nim's actress in *Return to Nim's Island*.",
+    "raagent_answer": "1"
+  },
+  {
+    "id": 939,
+    "question": "How many unique letters are there in the last name of the father of Nim's actress in Return to Nim's Island?",
+    "ground_truth": "4",
+    "react_answer": "The last name \"Irwin\" has 5 unique letters: I, r, w, and n. Therefore, the number of unique letters in the last name of the father of Nim's actress in *Return to Nim's Island* is 5.",
+    "raagent_answer": "4"
+  },
+  {
+    "id": 944,
+    "question": "What is the longest substring of consecutive letters in alphabetical order in the first name of the spouse of the longest reigning British monarch?",
+    "ground_truth": "hi",
+    "react_answer": "The longest substring of consecutive letters in alphabetical order in the first name of the spouse of the longest reigning British monarch is \"hil\".",
+    "raagent_answer": "hil"
+  },
+  {
+    "id": 962,
+    "question": "The submission deadline is at 02 September 2023, 09:32, Anywhere on Earth (AoE). At what date and time is the deadline in the county in which Mark Dismore's birthplace is located?",
+    "ground_truth": "2023-09-02 16:32",
+    "react_answer": "The submission deadline in the county where Mark Dismore's birthplace is located (Greenfield, Indiana, United States) is on 03 September 2023, 08:32, in the local time (America/Indiana/Indianapolis time zone).",
+    "raagent_answer": "16:32 CDT on 02 September 2023"
+  },
+  {
+    "id": 972,
+    "question": "How many hours are there between the winter time zone of the county where Gerald T. Whelan's birthplace is located in and UTC?",
+    "ground_truth": "6.0",
+    "react_answer": "There are 0 hours between the winter time zone of the county where Gerald T. Whelan's birthplace is located (East Sussex, United Kingdom) and UTC.",
+    "raagent_answer": "6"
+  },
+  {
+    "id": 977,
+    "question": "The submission deadline is at 02 June 1981, 12:04, Anywhere on Earth (AoE). At what date and time is the deadline in the county in which Larkin I. Smith was born?",
+    "ground_truth": "1981-06-02 19:04",
+    "react_answer": "The submission deadline in Pearl River County, Mississippi, where Larkin I. Smith was born, is on June 2, 1981, at 7:04 AM local time.",
+    "raagent_answer": "02 June 1981, 19:04"
+  },
+  {
+    "id": 981,
+    "question": "What is the date one day before the date when the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump was born?",
+    "ground_truth": "1949-03-31",
+    "react_answer": "The date one day before the birth date of Jason Miller, an American lawyer, lobbyist, and political consultant who was a senior member of Donald Trump's presidential campaign, is March 23, 1975.",
+    "raagent_answer": "1949年3月31日"
+  }
+]
