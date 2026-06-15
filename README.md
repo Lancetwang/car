@@ -132,19 +132,6 @@ On ToolHop-Pro, CAR achieves:
 
 These results support the central claim that dynamic tool synthesis and global replanning improve robustness under missing tools and unstable execution environments.
 
-## Citation
-
-If you use this code or benchmark, please cite:
-
-```bibtex
-@inproceedings{wang2026car,
-  title = {CAR: Empowering Agents with Dynamic Tool Synthesis and Global Trajectory Rectification},
-  author = {Wang, Kai and Wang, Xu and Fu, Zhiyuan and Zhang, Yudong and Wang, Yang},
-  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
-  year = {2026}
-}
-```
-
 ## Acknowledgements
 
 This repository accompanies the ACL 2026 Findings paper. Please refer to the paper for full experimental details, limitations, and safety discussion.
